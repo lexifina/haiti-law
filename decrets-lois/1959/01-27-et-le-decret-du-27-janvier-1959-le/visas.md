@@ -1,0 +1,16 @@
+# Visas
+
+Paraissant du Lundi au Vendredi JOURNAL OMCIEL DE LA REPUBLIQT]E D'HAITI DIRECTEURGENERAL Frilzner Beauzile 169 Année No. 105 Mercredi 4 Juin 2014 SOMMAIRT .
+Promulgation de la Ini sur Ia Paternité, la Matemité et la Filiation.
+.
+Décret portant ratification du Protocole Facultatif à la Convention relative aux droits de I'Enfant, concernant I'implication d'enfants dans les conflits armés .
+Décret portant ratification du Protocole Facultatif à la Convention relative aux droits de l'Enfant, concernant la vente d'enfants, la prostitution des enfants et Ia pornographie mettant en scène des enfants.
+LIBERTÉ nÉpunlreun D'HAITI Éc^Lr.rrÉ FRATERNITÉ CORPS LEGISLATIF' LOI SUR LA PATERNITÉ, LA MATERNITÉ ET LA FILIATION Vu les Articles 136,259,260,261 de la Constitution haïtienne ;
+Vu la Convention relative aux droits de l'enfant ratifiée par HaiIi ;
+Vu le Pacte International relatif au droits civils et politiques ratifié par HatTi ; Vu le Décret du 16 janvier 1979 sanctionnant la Déclaration des Droits de l'Enfant ; Vu les dispositions de la Loi N": 8 du Code Civil Hai'tien portant sur la paternité et la filiation amendées par le Décret-loi dr 22 décembre 1944 et le Décret du 27 janvier 1959 ;
+<< LE MONITEUR >> No. 105 - Mercredi 4 Juin 2014 Vu les dispositions de la Loi No: 16 du Code Civil Haïtien traitant de la succession ; Vu le Décret du 14 septembre 1983 instituant et réglementant la procédure de recouvrement des créances d'aliments et celles relatives à la garde des enfants ;
+Considérant qu'en raison des profondes mutations sociales et de la dynamique du monde, il est impératif de faire évoluer le droit de la filiation de façon positive dans le sens de I'intérêt supérieur de I'enfant ; Considérant que fort du principe de l'égalité devant la Loi, l'égalité en dignité et en droit, il y a lieu de mettre fin à toute différence de traitement entre enfants relevant de types différents de filiations ; Considérant que le principe de l'égalité des filiations prescrit par la Constitution. implique que puisse s'établir la filiation adultérine à l'égard du parent marié ;
+Considérant que la filiation comporte des effets destinés à assurer la perpétuation biologique, sociale et la reproduction de la famille, le transfert des biens et des valeurs immatérielles ;
+Considérant que les principes juridiques tels la possession d'état, la reconnaissance volontaire ne suffisent pas à régler les problèmes de filiation; que les progrès de la science dans le domaine médical et biologique, la maitrise des analyses du groupe sanguin permettent d'établir le lienjuridique entre un enfant et ses géniteurs ; Considérant que dans le but d'éliminer toutes formes de discriminations à l'égard des femmes et des enfants, il importe de libérer les règles d'établissement de tout type de filiation, de permettre la recherche de la paternité ou de la maternité et de définir une procédure capable de garantir la sécurité juridique de tous les enfants ; Considérant qu'il est nécessaire de développer des norrnes qui répondent à une protection effective de tous les enfants sans discrimination ;
+Considérant qu'il importe d'harmoniser les articles du Code Civil avec les conventions de droits de la personne ratifiées par Haiti.
+Le Parlement a voté la loi suivante :
