@@ -1,0 +1,7 @@
+# Visas
+
+Loi sur les coopératives d’épargne et de crédit « Le Moniteur » 10 juillet 2002 Vu les articles 1, 111-1, 144, 245, 246 de la Constitution, Vu la loi du 17 août 1979 créant la Banque de la République d’Haïti;
+Vu le décret du 31 mars 1981 créant un organisme autonome dénommé Conseil National des Coopératives (CNC);
+Vu le décret du 2 avril 1981 réglementant l’organisation des coopératives et les différentes formes d’association, ayant la société coopérative pour base;
+Vu le décret du 27 mars 1985 modifiant les articles 9 et 17 de la Loi du 17 août 1979 créant la Banque de la République d’Haïti, Vu le décret du 17 mai 1995 sur la libéralisation des taux d’intérêt ; Considérant que les coopératives d’épargne et de crédit communément appelées caisses populaires participent au développement économique et social du pays, Considérant qu’il y a lieu de renforcer le contrôle des activités des coopératives d’épargne et de crédit en vue de veiller à la sécurité des intérêts des déposants de ce secteur, Considérant qu’il faut donner à la BRH et au CNC un instrument juridique leur permettant d’encadrer, de superviser et de contrôler les coopératives d’épargne et de crédit, Sur le rapport des Ministres de la Planification et de la Coopération Externe, de l’Economie et des Finances et après délibération en Conseil des Ministres;
+Le pouvoir Exécutif a proposé. Et le Corps Législatif a voté la loi suivante: TITRE I DISPOSITIONS PRÉLIMINAIRES CHAPITRE 1 OBJET DE LA LOI
