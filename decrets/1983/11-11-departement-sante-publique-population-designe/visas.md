@@ -1,0 +1,15 @@
+# Visas
+
+PRESIDENT A VIE DE LA REPUBLIQUE Vu les articles 110, 111, 112, 113, 129, 130, 161, 163, 196, 208 et 223 de la Constitution;
+Vu la Loi du 24 février 1919 instituant le Service National d'Hygiène Publique;
+Vu le Décret-Loi du 21 septembre 1945 créant un Département de la Santé Publique;
+Vu les Décrets-Lois des 22 et 23 novembre 1945 définissant les attributions et organisant les Services du Département de la Santé Publique;
+Vu la Loi du 12 septembre 194 7 réorganisant le Département de la Santé Publique;
+Vu la Loi du 8 octobre 1949 rétablissant les cadres du personnel technique du Service de la Santé Publique;
+Vu la Loi du 31 octobre 1957 transformant le Département de la Santé Publique en Département de la Santé Publique et de la Population;
+Vu le 06cret du 9 mars 1962, organisant sur de nouvelles bases le Département de la Santé Publique et de la Population et fixant les objectifs du Service de la Population;
+Vu la Loi organique du 26 aoOt 1971 du D6partement de la Santé Publique et de la Population; Vu le Décret du 20 novembre 1975, restructurant le Département de la Santé Publique et de la Population en vue de l'adapter aux normes et aux nécessités de la politi- . que sanitaire du Gouvernement;
+Vu la Loi du 19 septembre 1982 portant Uniformisation des Structures de l'Administration Publique Haïtienne; Vu la Loi du 19 septembre 1982 portant Statut Général de la Fonction Publique; Vu la Loi du 19 septembre 1982 surla Régionatilation et l'aménagement du territoire; Considérant que la Santé définie par l'Organisation Mondiale de la Santé comme un état de bien-être physique, mental et social constitue un droit fondamental de l'homme, reconnu par la. Charte des Nations-Unies; Considérant que la politique sanitaire du Gouvernement de la Ré_pub!ïque vise à assurer la couverture totale du pays par des activités médico-sanitaires propres à garantir l tous les citoyens haïtiens sans distinction aucune la jouissance et l'exercice uniforme de ce droit fondamental; «LE MONITEUR» · No. 83 :.... Lwuli 28 novembre 198~ Considérant la nouvelle orientation du Département de la Santé Publique et de la Population pour atteindre les objectifs fixés par l'an 2000 par le Plan National de Santé;
+Considérant que la participation effective de tous les organismes à vocation sociale aux activités médico-sanitaires est indispensable au développement socio-économique intégral de la communauté; Considérant qu'il convient d'organiser la collecte des données de statistiques vitales pour une meilleure information sur la dynamique de la popûlation haïtienne; Considérant qu'il convient de formuler une politique de population qui soit en harmonie avec notre contexte socio-économique et culturel;
+Considérant qu'il y a lieu de restructurer le Département de la Santé Publique et de la Population pour lui permettre d'accomplir sa mission; Sur le rapport du Ministre de la Santé Publique et de la Population;
+Et après délibérations en Conseil des Ministres DECRETE IITtlE 1 DISPOSITIONS GENERALES CHAPITRE 1 MISSION & ATTRIBUTIONS
