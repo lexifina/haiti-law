@@ -1,0 +1,7 @@
+# Visas
+
+Lqj. du 2(L~-i . ..!236 edicta.nt des mesures pour arreter la. deforestation Moniteur No.48 du Jeudi 4 Juin 1936 LOI STilllO VINC'fflr President de la. Republique Vu les articles 7 et 21 de la. Constitution;
+Vu 1 'article 7 du Code Rural et la loi du 3 fevrier 1936 sur les forllts reservees;
+, Vu l'a.rrllte du 10 Janvier 1933 sur la. conservation des forlltsf · Considerant C{ll'il est urgent d'arreter, pa.r des mesures appropriaes, la deforestation des montagnes et des plaines du territoire de la Republique, 11abattage des arbres sur lee Places, le long des Rues et des Voies Publiquesr Sur le rapport du Seoretaire d 1Etat de l'Agrioulture;
+Et spree deliberation du Conseil des Secretaires d'Etat, A propose, l!lt le Corps Legislatif a. vote la. Loi suivante:
+Article ler.- Dans les terrains en montagne dont la pente est rspide1 sur lea b•rges des rivieres d.a.ns une la.rgeur <le cinquante mM,res de chaque cote, sur la. crllte des mont~es et dans une largeur de cent metres de chaque c~te de ls ligne de pa.x-- tage des ea=, en amont des sources et dans un rs.yon de cent metres, auoun a.rbre au groups d'a.rbres ne peut lltre endomma.ge, coupe, deracine au b:rO.le sans une a.utorisa.tion specials du Commandant du sous-district donnee~ l'interesse par l'intermediaire de l'offioier de la. Police Rurale, spree avis formel du Service National de la Pl'oduction Agricole et de l'Enseignement Rural.
