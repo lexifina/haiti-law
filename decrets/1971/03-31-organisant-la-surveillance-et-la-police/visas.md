@@ -1,0 +1,10 @@
+# Visas
+
+Decret du 31 Mars 1971 organisant 10 surveillance et 10 Police de 10 chasse (Moniteur No 26 du jeudi ler Avril 1971 ) Dr. FRANCOIS DUVALJER PRESIDENT A VIE DE LA REPUBLIQUE Vu les articles l er, 2 et 68 (2eme, alinea) de la Constitution;
+Vu la Loi No. IX du Code Rural Dr. Francois DUVALIER:
+Vu le Decret de la Charnbre Legislative en date du 20 Aoiit 1970 suspendant les garanties prevues aux articles 17, 18, 19,20,21,25,31, 34,48, 70, 71, 72, 93 (dernier al.inea), 97, 109,110,119 (Zerne a linea), 147, 148" 152, 190, 195 de la Constitution et accordant Pleins Pouvoirs au Chef du Pouvoir Executif, pour Lui permettre de prendre jusqu'au deuxieme Lundi d' Avril 1971, par Decrets ayant force de Lois, toutes les mesures qu'll jugera necessaires a la sauvegarde de l 'Integrite du Territoire National et de la Souverainete de l'Etat, a 1a consolidation de l'ordre et de la paix au maintien de la stabilits politique, economique, economique et financiere de la Nation, a I'approfondissement du bien-etre des populations rurales et urba ines , a 1a defense des interets generaux de la Republique;
+Considerant qu'en Haiti, 1es anirnaux sauvages sont pour 13. p1upart des auxiliaires precieux de l'Agriculture en ce qu'ils detruisent un grand nornbre d'organismes nuisib1es; Considerant que ces animaux et surtout les oiseaux constituent une parure naturelle de nos sites panorarnique-":
+Consideran t oue les oiseaux sont un patrirnoine international et ont fait l' objet de la Convention pour 1a Protection de la Nature et la Preservation de 1a Faune s auvage dans l'hernisphere occidentale, Convention ratifiee par la Republique dHa it i ;
+Corisiderant qu'il c onv ie at, dans l 'Interet de notre cornmunaute , d'exercer la surveillance et la police de la c hasse:
+Sur Ie rapport du Secretaire d'Etat de l'Agriculture, des Ressources Naturelles et du Developpement Rural. et de celui de l'Interieur et de la Defense Nat ionale ; Et apres deliberation en Conseil des Secreta ires d'Etat;
+*** Article ler.- La chasse consiste dans la recherche, la poursuite et la capture d'animaux s auvages, i l faut entendre ceux-Ia qui vivent nature Ilernent en Iiberte,
