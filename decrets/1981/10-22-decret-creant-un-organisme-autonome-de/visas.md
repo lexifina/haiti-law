@@ -1,0 +1,13 @@
+# Visas
+
+République d'Haïti Ministère de l'Économie et des Finances (MEF) Site de Documentation Numérique (SDN) Section : Lois et Décrets Société Nationale des Parcs Industriels (SONAPI) Intitulé : Décret créant un organisme autonome de droit public, à caractère industriel et commercial dénommé "Société Nationale des Parcs Industriels" (SONAPI) Date de l'acte : 22 Octobre 1981 Source : Journal Officiel "Le Moniteur" No. 82 du Jeudi 22 Octobre 1981, pp. 759-760 Remarques :
+Liberté - Égalité - Fraternité République d'Haïti DÉCRET Jean-Claude DUVALIER Président à vie de la République Vu les articles 68, 93, 95, 96, 149, 160 et 161 de la Constitution;
+Vu le Décret du 20 Janvier 1967 amendant la loi organique de la Société d'Équipement National (SEN) et réglementant son fonctionnement;
+Vu le Décret du 16 Octobre 1969 conférant à la SEN le privilège exclusif de gérer les Parcs Industriels; Vu la Loi du 18 Juillet 1974 instituant et réglementant sur le territoire de la République des zones clôturées dénommées "Parcs Industriels";
+Vu la Loi du 17 Août 1979 créant la Banque de la République d'Haïti;
+Vu la Loi du 7 Juillet 1980 réorganisant la Secrétairerie d'État des Finances et des Affaires Économiques;
+Vu le Décret de la Chambre Législative en date du 12 Septembre 1981, accordant pleins pouvoirs au Chef du Pouvoir exécutif, pour lui permettre de prendre jusqu'au deuxième Lundi d'Avril 1982, par Décrets ayant force de Lois, toutes les mesures qu'il aura jugées nécessaires à la sauvegarde de l'intégrité du Territoire National et de la Souveraineté de l'État, à la consolidation de l'ordre et de la paix, au maintien de la stabilité économique et financière de la Nation, à l'approfondissement du bien-être des Populations rurales et urbaines, à la défense des intérêts généraux de la République; Considérant que la politique économique du Gouvernement a porté un nombre de plus en plus grand d'investisseurs nationaux et étrangers à installer des entreprises en Haïti; Considérant qu'il a été constaté une carence au niveau des structures d'accueil, notamment en matière de locaux industriels et qu'il importe d'y remédier sans délai;
+Considérant qu'il est nécessaire d'organiser sur des bases rationnelles l'aménagement, l'administration et le développement des Parcs Industriels à travers la République;
+Considérant qu'il est donc indispensable de créer un organisme autonome chargé de la gestion des Parcs Industriels existants et de l'implantation de nouveaux parcs et qu'il convient de donner à cet organisme les moyens de mener à bien sa mission;
+Sur le rapport du Secrétaire d'État des Finances et des Affaires Économiques; Et après délibération en Conseil des Secrétaires d'État;
+DÉCRÈTE
