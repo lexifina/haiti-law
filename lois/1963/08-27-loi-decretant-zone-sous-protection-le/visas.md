@@ -1,0 +1,11 @@
+# Visas
+
+lE,;J,~_gl.A9.i't..J9.c~l.A~9X§.:ta.J!i.~'.ZQne sous prQi!)c:tion" .. l~..haaain.~drouapbiq,yP. Horne .. l.' Ht,pi tal.
+R6f1 Moniteur No. 81 du Jeudi5 Septembre 1963 LOI - DR. FRAllQOIS DUVALIER Pr6sident de la R6publique Vu les articles 48, 66 et 90 de la Constitution;
+Vu l'article de la Loi du 17 Aout 1955;
+Vu l'article 18 paragraphe III de ce meme Loi;
+Vu l' article 184 du Code Rural Dr. Fran~oia DUVALIER I Considfrant que lea nombreuses sources prenant naissance au Morna l 1Hopital assurent l•alimentation en ea.u potable do la ville de Port-au-Prince; Consid6rant que le d6veloppement normal de la ville de Port-au-Prince repose sur une alimentation abondante en ea.u potable;
+Consid6rant lea ddgats d6J°'h oauads 'h Port-au-Prince par lea orues d6vastatrioes provenant du Morna 1 1:il&pital; Considdrant que le Morna 1 1Hopital, par sa position, aa topographie et son panorama pittoresque, constituo un attrait touristique et un centre do cr6ation dent il oonviont de conserver la boautd; Consid,Srant que l' .Stat 6rod6 actual des sols du Horne l 'Ht,pi tal oonsti tue un probl~me de premier ordre pour la protection de la ville de Port-au-Prince; Considdrant que la coupe de fascines, le sarolage des terres 11Uivi de oultures annuelles (ma!s, potit-mil, manioc, patate, etc) pr6paration de la chaux et 1 1 e:z:ploitation des oarriires de sables, graviers et autres sont des activit6s de nature a favoriser et aocelerer le rythine do 1'6rosion d6fa avanoe au Morna 1 1 Hopi tal ;
+Consid6rant quo la cessation de toute activit6 agricole et de toute activite industrielle exigeant 1 1 exploitation du sol_ ~l! Jforne l I Hopi tal deviant une question vitale pour la protection des vies et des biens de ls Capital.er Sur le rapport des seoretaires d'Eta.t de l'Agrioulturo, des Ressources Na.turelles et du D6veloppement Rura.l, des Travaux Publics, des Transports ot Com;. munications, do 1 1Interieur et de la Defense Nationale, des Finances et des Affaires Eoonomiques et de la. Justice;
+Aprea d6lib6ration en Conseil des Secr6taires d1Etat, A propose Et la Chambre Legislative a vote la Loi suiva.nte:
+Article ler.- Le bassin h,Ydrographique du Morna l 1H0pi tal est decrete "Zone sous Protection"•
