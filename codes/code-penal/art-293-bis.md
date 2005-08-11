@@ -1,0 +1,3 @@
+# Article 293 bis
+
+(Décret du 4 mai 2005. Art. 1). Seront punis de travaux forcés à perpétuité, ceux qui auront enlevé, détenu ou séquestré ou tenté d’enlever, de détenir ou de séquestrer des personnes quelconques dans le but d’obtenir une rançon. Quiconque aura facilité l’enlèvement, prêté un lieu pour exécuter la détention ou la séquestration, ou aura été complice de tels actes subira la même peine. SECTION VI - CRIMES ET DÉLITS TENDANT À EMPÊCHER OU DÉTRUIRE LA PREUVE DE L'ÉTAT CIVIL D'UN ENFANT, OU À COMPROMETTRE SON EXISTENCE, ENLÈVEMENT DE MINEURS, INFRACTIONS AUX LOIS SUR LES INHUMATIONS I. CRIMES ET DÉLITS ENVERS L'ENFANT
