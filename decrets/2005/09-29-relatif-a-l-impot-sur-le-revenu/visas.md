@@ -1,0 +1,13 @@
+# Visas
+
+Paraissant Le Lundi et le Jeudi 160ème Année No. JO JOURNAL OFFICIEL DE LA REPUBLIQUE D'HAITI PORT-AU-PRINCE SOMMAIRE DIRECTEUR GENERAL Willems Edouard Mercredi 5 Octobre 2005 DÉCRET MODIFIANT CELUI DU 29 SEPTEA-JBRE 1986 RELATIF À L'IMP6T SUR LE REVENU NuMÉRO SPÉCIAL LIBERTÉ ÉGALITÉ RÉPUBLIQUE D'HAIT! DÉCRET Me. BONIFACE ALEXANDRE PRÉSIDENT PROVISOIRE DE LA RÉPUBLIQUE Vu les Articles 111-1, 111-2, 136, 159, 218 et 219 de la Constitution; FRATERNITÉ Vu l'entente convenue entre la Communauté Internationale, les Organisations de la Société Civile et les Partis Politiques portant création de la Commission Tripartite et du Conseil des Sages; Vu 1' Accord de Consensus sur la Transition Politique du 4 avril2004;
+Vu les Articles 130, 131, 132, 134, 136,137,138, 139,140, 141 du Code Pénal; Vu la Loi du 26 août 1879 sur la responsabilité des fonctionnaires et employés de l'Administration Publique; Vu le Décret du 13 septembre 1962 créant l'Administration Générale des Douanes; << LE MONITEUR >> Spécial No. JO - Mercredi 5 Octobre 2005 Vu la Loi du 16 août 1979 annulant toutes les affectations de recettes ainsi que les Comptes spéciaux qui s'y rattachent:
+Vu la Loi du 17 août 1979 remplaçant la Banque Nationale de la République d'Haïti par deux Institutions Autonomes la Banque de la République d'Haïti et la Banque Nationale de Crédit; Vu le Décret du 14 novembre 1980 réglementant le fonctionnement des Banques Commerciales en Haïti; Vu le Décret du 29 septembre 1986 relatif à l'Impôt Sur Je Revenu:
+Vu le Décret du 27 septembre 1988 modifiant celui du 29 septembre 1986 relatif à 1' Impôt sur le Revenu; Vu la Loi du 5 février 1995 modifiant les articles 35, 36, et 82 du Décret du 29 septembre 1986 relatif à l'Impôt sur le Revenu;
+Vu le Décret du 28 septembre 1990 créant le droit pour l'obtention du quitus fiscal; Vu le Décret du 13 mars 1987 réorganisant le Ministère de 1' Economie et des Finances; Vu le Décret du 28 septembre 1987 modifiant les structures de la Direction Générale des Impôts; Vu la Loi du 24 juillet 2002 sur les Zones Franches;
+Vu la Loi du 9 octobre 2002 modifiant le Décret du 30 octobre 1989 sur le Code des Investissements; Vu la Loi des Finances 2002- 2003:
+Vu le Décret du 7 mai 2005 modifiant la Loi du 19 septembre 1982 sur le statut général des agents de l'Administration Publique;
+Considérant qu'il y a lieu de moderniser le système fiscal haïtien afin d'en faire un instrument performant au service du développement socio-économique du pays;
+Considérant qu' i 1 y a lieu d'abroger le Décret du 29 septembre 1986, le Décret du 27 septembre 1988 et la Loi du 5 février 1995;
+Sur le rapport du Ministre de l'Economie et des Finances;
+Et après délibération en Conseil des Ministres:
