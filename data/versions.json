@@ -1,0 +1,39 @@
+{
+ "country": "HT",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "CONST",
+   "title": "Constitution de la République d'Haïti (1987)",
+   "url": "https://mjp.univ-perp.fr/constit/ht2011.htm",
+   "versions": [
+    {
+     "from": "1987-03-29",
+     "units": 500,
+     "source_url": "https://mjp.univ-perp.fr/constit/ht1987.htm",
+     "sha256": "222ad74f678762adc5f735d0585eb5245c6d6358919391f957b6204cd7a521c9"
+    },
+    {
+     "from": "2012-06-19",
+     "units": 485,
+     "source_url": "https://mjp.univ-perp.fr/constit/ht2011.htm",
+     "sha256": "158b86d721e93cac35494aff08dae3ce72987f78a221399c44c5bf459131059c"
+    }
+   ]
+  },
+  {
+   "slug": "code-du-travail",
+   "short": "CT",
+   "title": "Code du travail (Décret du 24 février 1984)",
+   "url": "https://oig.cepal.org/sites/default/files/2003_codtravail_hti.pdf",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 501,
+     "source_url": "https://oig.cepal.org/sites/default/files/2003_codtravail_hti.pdf",
+     "sha256": "1c79eac99034549dedb099d3d91592aeb4fcf263c2a166b2950434818217d2a3"
+    }
+   ]
+  }
+ ]
+}

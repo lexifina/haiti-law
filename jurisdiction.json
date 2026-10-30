@@ -1,0 +1,9 @@
+{
+  "path": "ht",
+  "code": "HT",
+  "name": "Haiti",
+  "level": "country",
+  "repo": "https://github.com/lexifina/haiti-law",
+  "build": "built: Constitution of 1987 (original 1987 text and the 2012 amended text, from a third-party copy), 2 versions",
+  "register_date": "2026-10-30"
+}
