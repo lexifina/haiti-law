@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "20-code-du-travail.json": {
+   "acts": [
+    "code-du-travail"
+   ],
+   "sha256": "1a0bce22fa0495da96dddef7d3ac8b7d7c1232e39823d4f7a4a6dd1743a67384"
+  }
+ },
+ "schema": 1
+}
