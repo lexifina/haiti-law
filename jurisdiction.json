@@ -4,6 +4,6 @@
   "name": "Haiti",
   "level": "country",
   "repo": "https://github.com/lexifina/haiti-law",
-  "build": "built: Constitution of 1987 (original 1987 text and the 2012 amended text, from a third-party copy), 2 versions",
+  "build": "built: Constitution of 1987 (2 versions), Code du travail (1 version), and 2015 civil pension decree (1 version)",
   "register_date": "2026-10-30"
 }

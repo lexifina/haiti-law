@@ -34,6 +34,20 @@
      "sha256": "1c79eac99034549dedb099d3d91592aeb4fcf263c2a166b2950434818217d2a3"
     }
    ]
+  },
+  {
+   "slug": "decret-pension-civile-2015",
+   "short": "Pension civile 2015",
+   "title": "Décret du 9 octobre 2015 modifiant celui du 18 février 2011 sur la pension civile de retraite",
+   "url": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0fc/989/6220fc98951f1364533445.pdf",
+   "versions": [
+    {
+     "from": "2015-10-26",
+     "units": 1,
+     "source_url": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0fc/989/6220fc98951f1364533445.pdf",
+     "sha256": "f418f0ba10c48cca8e34ce787c66a87bfe8cd01b006bac59c104eab5bd8e7012"
+    }
+   ]
   }
  ]
 }

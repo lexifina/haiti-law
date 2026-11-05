@@ -5,6 +5,12 @@
     "code-du-travail"
    ],
    "sha256": "1a0bce22fa0495da96dddef7d3ac8b7d7c1232e39823d4f7a4a6dd1743a67384"
+  },
+  "30-pension-2015.json": {
+   "acts": [
+    "decret-pension-civile-2015"
+   ],
+   "sha256": "9f9cb506fef1d8ed1392596c9a4dd637a4277e46ccc4bc5d1e5095559df2032c"
   }
  },
  "schema": 1
