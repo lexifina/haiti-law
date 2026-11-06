@@ -5,5 +5,10 @@
   "level": "country",
   "repo": "https://github.com/lexifina/haiti-law",
   "build": "built: Constitution of 1987 (2 versions), Code du travail (1 version), and 2015 civil pension decree (1 version)",
-  "register_date": "2026-10-30"
+  "register_date": "2026-10-30",
+  "pending_review": {
+    "act": "Loi portant prévention et répression de la corruption",
+    "versions": 1,
+    "source_edition": "Le Moniteur no 87, 9 May 2014"
+  }
 }

@@ -38,3 +38,11 @@ The 2015 pension decree comes from the official Le Moniteur no 205 PDF hosted by
 
 - Every version is read back from git on its day and compared with the corpus (`tools/check_repo.py`; results in `REPRODUCE.md`).
 - Each version names its source page and the sha256 of the bytes it was read from (`data/versions.json`).
+
+## Prepared for independent review
+
+| Folder | Act | Versions | Source edition |
+| --- | --- | ---: | --- |
+| `loi-prevention-repression-corruption-2014/` | Loi portant prévention et répression de la corruption | 1 | Le Moniteur no 87, 9 May 2014; Articles 1–26, preamble and promulgation |
+
+This additional act is prepared for independent review and is outside the published record until that review is complete. Its source is the official Gazette PDF hosted by Haiti’s Ministry of Economy and Finance. The source states no later consolidated edition. Printed attestations and signatures contain no normative table, formula or schedule.
