@@ -1,5 +1,7 @@
 # Haiti: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Haiti's national law, which global-law reads at `haiti/national/acts/`.
+
 The Constitution, Code du travail and 2015 civil pension decree of Haiti as a git repository, with the text in French (the official language of the Moniteur). The pension decree is a single-file act; the other acts have article files. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
 **What is in it now**
