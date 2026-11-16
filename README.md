@@ -1,34 +1,41 @@
-# Haiti: law history in git
+# Haïti : l’histoire du droit dans git
 
-The law of Haiti as a git history: one file per article, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every article; `git log` lists every change to an article; picking a date gives the text in force that day.
+**Français** · [English](README.en.md)
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Haiti's national law, which global-law reads at `haiti/national/acts/`.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/fr/effort-dark.svg">
+<img alt="Le droit haïtien dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
+</picture>
 
-**What is in it now:** three acts, with four versions: the Constitution of 29 March 1987, as ratified and as amended in 2011 (the corrected text published on 19 June 2012); the Code du travail, in one version; and the decree of 9 October 2015 on civil pensions, in one version. That is all the law this repository holds today.
+Le droit d’Haïti sous la forme d’un historique git : un fichier par article, un commit par version à la date de son entrée en vigueur, et l’acte auteur de chaque modification comme auteur du commit. `git blame` indique l’acte à l’origine de chaque article ; `git log` liste toutes les modifications d’un article ; le choix d’une date donne le texte en vigueur ce jour-là.
 
-Each act has its own folder, with one file per article (`code-du-travail/art-001.md` is Article 1 of the Code du travail; the Constitution's Article 1.1 is `constitution/art-001-01.md` and its preamble `constitution/preambule.md`); the pension decree is one file, `decret-pension-civile-2015/texte-integral.md`. Each folder's `README.md` lists its articles.
+Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national d’Haïti, que global-law lit sous `haiti/national/acts/`.
 
-The text is in French, as the sources print it. Haitian Creole texts and English translations are not part of this record.
+**Contenu actuel :** trois actes, en quatre versions : la Constitution du 29 mars 1987, telle que ratifiée et telle qu’amendée en 2011 (le texte corrigé publié le 19 juin 2012) ; le Code du travail, en une version ; et le décret du 9 octobre 2015 sur les pensions civiles, en une version. C’est là tout le droit que ce dépôt contient aujourd’hui.
 
-## Questions as git commands
+Chaque acte a son propre dossier, avec un fichier par article (`code-du-travail/art-001.md` est l’article 1er du Code du travail ; l’article 1.1 de la Constitution est `constitution/art-001-01.md` et son préambule `constitution/preambule.md`) ; le décret sur les pensions tient en un seul fichier, `decret-pension-civile-2015/texte-integral.md`. Le `README.md` de chaque dossier liste ses articles.
 
-| Question | Command |
+Le texte est en français, tel que les sources l’impriment. Les textes en créole haïtien et les traductions anglaises ne font pas partie de ce corpus.
+
+## Questions sous forme de commandes git
+
+| Question | Commande |
 | --- | --- |
-| Every change to Article 1 of the Code du travail | `git log -p --word-diff -- code-du-travail/art-001.md` |
-| Which act wrote each line of Article 1? | `git blame code-du-travail/art-001.md` |
-| Every version of the Code du travail, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail` |
-| Article 1 as in force on 1 January 2015 | `python tools/on.py 2015-01-01 code-du-travail art-001` |
+| Toutes les modifications de l’article 1er du Code du travail | `git log -p --word-diff -- code-du-travail/art-001.md` |
+| Quel acte a rédigé chaque ligne de l’article 1er ? | `git blame code-du-travail/art-001.md` |
+| Toutes les versions du Code du travail, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail` |
+| L’article 1er tel qu’en vigueur au 1er janvier 2015 | `python tools/on.py 2015-01-01 code-du-travail art-001` |
 
-**Outside git**, we also host this record publicly, for free:
+**En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :
 
-- **[Ask Claude about Haitian law](https://global-law.lexifina.com/v1/try_claude?country=haiti)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=haiti)**: the same question in ChatGPT.
-- **[Search Haitian law on our site](https://lexifina.com/law?country=haiti&q=cong%C3%A9+annuel)**: a search for "congé annuel", with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+annuel&jurisdiction=haiti)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Interroger Claude sur le droit haïtien](https://global-law.lexifina.com/v1/try_claude?country=haiti)** : ouvre Claude avec une première question prête.
+- **[Interroger ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=haiti)** : la même question dans ChatGPT.
+- **[Rechercher dans le droit haïtien sur notre site](https://lexifina.com/law?country=haiti&q=cong%C3%A9+annuel)** : une recherche de « congé annuel », avec le texte de chaque disposition et ses versions, sans compte.
+- **[API REST pour développeurs](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+annuel&jurisdiction=haiti)** : la même recherche au format JSON, sans clé. Voir la [documentation ici](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
+Les deux assistants lisent le corpus au moyen du connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**L’héberger vous-même, simplement.** Il suffit de git et de Python, et les outils s’exécutent sur votre machine :
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -36,53 +43,55 @@ python3 tools/countries.py add haiti/national/acts
 python3 tools/law.py show 2026-01-01 haiti/national/acts/code-du-travail/art-001.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-Each commit is dated at noon, America/Port-au-Prince, on the day the version took effect, and carries it in its `In-force:` trailer:
+Chaque commit est daté à midi, heure America/Port-au-Prince, du jour où la version est entrée en vigueur, et porte cette date dans son trailer `In-force:` :
 
-- the Constitution: 29 March 1987, the day it was ratified by referendum (Article 298 puts it in force on publication in Le Moniteur; the ratification day is used), then 19 June 2012, the Moniteur extraordinaire that published the corrected text of the 2011 amendment; the first publication of 13 May 2011 differed from what the Assembly approved and is not used;
-- the Code du travail: 31 August 2010, the date of the copy used, not a day the law took effect; the copy reflects the Decree of 24 February 1984 and the Loi du 5 juin 2003;
-- the pension decree: 26 October 2015, its publication day in Le Moniteur no 205, from which its Article 41 applies it.
+- la Constitution : le 29 mars 1987, jour de sa ratification par référendum (l’article 298 la fait entrer en vigueur dès sa publication au Moniteur ; la date de ratification est retenue), puis le 19 juin 2012, date du Moniteur extraordinaire qui a publié le texte corrigé de l’amendement de 2011 ; la première publication du 13 mai 2011 différait du texte voté par l’Assemblée et n’est pas retenue ;
+- le Code du travail : le 31 août 2010, date de la copie utilisée, et non une date d’entrée en vigueur de la loi ; la copie intègre le Décret du 24 février 1984 et la Loi du 5 juin 2003 ;
+- le décret sur les pensions : le 26 octobre 2015, date de sa publication au Moniteur no 205, à compter de laquelle son article 41 le rend applicable.
 
-The 1987 text is credited to the Constitution itself, and the 2012 version to the 2011 constitutional amendment, and that commit changes only the articles the source marks as amended. The Code du travail and the pension decree, each held in one text, are the "oldest version available", credited to the source that published the text.
+Le texte de 1987 est attribué à la Constitution elle-même, et la version de 2012 à l’amendement constitutionnel de 2011 ; ce commit ne modifie que les articles que la source signale comme amendés. Le Code du travail et le décret sur les pensions, disponibles chacun en un seul texte, sont la « plus ancienne version disponible », attribuée à la source qui a publié le texte.
 
-## How it is checked
+## Méthode de vérification
 
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 0 mismatches. A second build from the same corpus gave the same hashes. Both are in `REPRODUCE.md`.
-- Each version names its source page and the sha256 of the bytes it was read from (`data/versions.json`).
-- No merge commits, no commit dated after the build, and every commit's trailers parse.
+- `tools/check_repo.py` relit chaque version dans git le jour de son entrée en vigueur et la veille, et la compare au corpus : 0 écart. Une seconde construction à partir du même corpus a donné les mêmes empreintes. Les deux résultats figurent dans `REPRODUCE.md`.
+- Chaque version indique sa page source et l’empreinte sha256 des octets à partir desquels elle a été lue (`data/versions.json`).
+- Aucun commit de fusion, aucun commit daté après la construction, et les trailers de chaque commit sont analysables.
 
-## What it does not show
+## Ce qu’il ne montre pas
 
-- **The official gazette.** Le Moniteur has no comprehensive online archive; the Constitution and the Code du travail are unofficial third-party copies, so check them against Le Moniteur for anything that matters.
-- **Any other Haitian law**, such as the Code civil and the Code pénal. The Loi portant prévention et répression de la corruption (Le Moniteur no 87, 9 May 2014) is prepared but stays outside the record until an independent review is complete.
-- **Later changes**: to the Constitution other than the 2011 amendment, and to the Code du travail or the pension decree after the texts used.
-- **Headings** of the Constitution and the Code du travail: titles, chapters and sections are left out; each article is a file.
-- **Seven articles of the Code du travail** (426, 483, 505 and 507 to 510): the copy prints only a summary, and those files say the source does not give the text.
+- **Le journal officiel.** Le Moniteur ne dispose d’aucune archive en ligne complète ; la Constitution et le Code du travail sont des copies non officielles de tiers : vérifiez-les dans Le Moniteur pour tout usage important.
+- **Tout autre texte du droit haïtien**, comme le Code civil et le Code pénal. La Loi portant prévention et répression de la corruption (Le Moniteur no 87, 9 mai 2014) est préparée mais reste hors du corpus jusqu’à l’achèvement d’un examen indépendant.
+- **Les modifications ultérieures** : de la Constitution autres que l’amendement de 2011, et du Code du travail ou du décret sur les pensions après les textes utilisés.
+- **Les intitulés** de la Constitution et du Code du travail : les titres, chapitres et sections sont omis ; chaque article est un fichier.
+- **Sept articles du Code du travail** (426, 483, 505 et 507 à 510) : la copie n’en imprime qu’un résumé, et ces fichiers indiquent que la source ne donne pas le texte.
 
 ## Sources
 
-| Source | Kind | Past versions | Notes |
+| Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
-| [Digithèque MJP](https://mjp.univ-perp.fr/constit/ht1987.htm), Université de Perpignan | Third-party copy of the Constitution | yes, the 1987 text and the [amended text](https://mjp.univ-perp.fr/constit/ht2011.htm) | Unofficial; the amended page marks repealed and new words |
-| [CEPAL, Gender Equality Observatory](https://oig.cepal.org/sites/default/files/2003_codtravail_hti.pdf) | Third-party copy of the Code du travail | no, one copy (2010) | Unofficial |
-| [Le Moniteur no 205](https://www.mef.gouv.ht/storage/app/uploads/public/622/0fc/989/6220fc98951f1364533445.pdf) (Ministère de l'Économie et des Finances) | Official gazette | no, as published | The 2015 pension decree |
+| [Digithèque MJP](https://mjp.univ-perp.fr/constit/ht1987.htm), Université de Perpignan | Copie de la Constitution par un tiers | oui, le texte de 1987 et le [texte amendé](https://mjp.univ-perp.fr/constit/ht2011.htm) | Non officielle ; la page du texte amendé signale les mots abrogés et nouveaux |
+| [CEPAL, Observatoire de l’égalité des genres](https://oig.cepal.org/sites/default/files/2003_codtravail_hti.pdf) | Copie du Code du travail par un tiers | non, une seule copie (2010) | Non officielle |
+| [Le Moniteur no 205](https://www.mef.gouv.ht/storage/app/uploads/public/622/0fc/989/6220fc98951f1364533445.pdf) (Ministère de l'Économie et des Finances) | Journal officiel | non, tel que publié | Le décret de 2015 sur les pensions |
 
 ## Licence
 
-See `LICENSE`. Haiti's Decree of 12 October 2005 on copyright (Article 5) excludes official legislative texts from protection; the third-party hosts are credited as the source of the bytes. The arrangement, tables, commit messages and tools are CC BY 4.0.
+Voir `LICENSE`. Le Décret haïtien du 12 octobre 2005 sur le droit d’auteur (article 5) exclut de la protection les textes législatifs officiels ; les hébergeurs tiers sont cités comme source des octets. L’organisation, les tableaux, les messages de commit et les outils sont sous licence CC BY 4.0.
 
-No AI model wrote, translated or corrected legal text; the scripts were written by an AI model, and a model identified document boundaries and source dates (see `REPRODUCE.md`).
+Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique ; les scripts ont été écrits par un modèle d’IA, et un modèle a identifié les limites des documents et les dates des sources (voir `REPRODUCE.md`).
 
-## More
+Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
+## En savoir plus
 
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+Dans le dépôt [lexifina/global-law](https://github.com/lexifina/global-law) (pages en anglais) :
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): toutes les fonctionnalités et ce que chaque corpus doit prendre en charge (`git blame`, `law.py`, outils MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions et réponses · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposer une modification · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serveur MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): comment il a été construit · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): à quel point chaque corpus est à jour · [Surveillance](https://github.com/lexifina/global-law/tree/main/monitoring): si les mises à jour fonctionnent · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): comment chaque source officielle est surveillée pour repérer les modifications
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidité des outils, mesurée
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): graphiques et liens à travers le droit du monde entier
+- [Vulnérabilités](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erreurs dans les textes tels qu’ils ont été publiés
