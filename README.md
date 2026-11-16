@@ -60,6 +60,7 @@ Le texte de 1987 est attribué à la Constitution elle-même, et la version de 2
 - `tools/check_repo.py` relit chaque version dans git le jour de son entrée en vigueur et la veille, et la compare au corpus : 0 écart. Une seconde construction à partir du même corpus a donné les mêmes empreintes. Les deux résultats figurent dans `REPRODUCE.md`.
 - Chaque version indique sa page source et l’empreinte sha256 des octets à partir desquels elle a été lue (`data/versions.json`).
 - Aucun commit de fusion, aucun commit daté après la construction, et les trailers de chaque commit sont analysables.
+- [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
@@ -84,6 +85,10 @@ Voir `LICENSE`. Le Décret haïtien du 12 octobre 2005 sur le droit d’auteur (
 Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique ; les scripts ont été écrits par un modèle d’IA, et un modèle a identifié les limites des documents et les dates des sources (voir `REPRODUCE.md`).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
 
 ## En savoir plus
 

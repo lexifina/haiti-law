@@ -60,6 +60,7 @@ The 1987 text is credited to the Constitution itself, and the 2012 version to th
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 0 mismatches. A second build from the same corpus gave the same hashes. Both are in `REPRODUCE.md`.
 - Each version names its source page and the sha256 of the bytes it was read from (`data/versions.json`).
 - No merge commits, no commit dated after the build, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ The 1987 text is credited to the Constitution itself, and the 2012 version to th
 See `LICENSE`. Haiti's Decree of 12 October 2005 on copyright (Article 5) excludes official legislative texts from protection; the third-party hosts are credited as the source of the bytes. The arrangement, tables, commit messages and tools are CC BY 4.0.
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model, and a model identified document boundaries and source dates (see `REPRODUCE.md`).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
