@@ -4,7 +4,7 @@
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/fr/effort-dark.svg">
-<img alt="Le droit haïtien dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
+<img alt="Le droit haïtien dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
 </picture>
 
 Le droit d’Haïti sous la forme d’un historique git : un fichier par article, un commit par version à la date de son entrée en vigueur, et l’acte auteur de chaque modification comme auteur du commit. `git blame` indique l’acte à l’origine de chaque article ; `git log` liste toutes les modifications d’un article ; le choix d’une date donne le texte en vigueur ce jour-là.
@@ -83,11 +83,11 @@ Voir `LICENSE`. Le Décret haïtien du 12 octobre 2005 sur le droit d’auteur (
 
 Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique ; les scripts ont été écrits par un modèle d’IA, et un modèle a identifié les limites des documents et les dates des sources (voir `REPRODUCE.md`).
 
-Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 
 ## En savoir plus
 
-Dans le dépôt [lexifina/global-law](https://github.com/lexifina/global-law) (pages en anglais) :
+Dans le dépôt [lexifina/global-law](https://github.com/lexifina/global-law) (pages en anglais) :
 
 - [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): toutes les fonctionnalités et ce que chaque corpus doit prendre en charge (`git blame`, `law.py`, outils MCP)
 - [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions et réponses · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposer une modification · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serveur MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): comment il a été construit · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
