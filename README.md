@@ -11,7 +11,7 @@ Le droit d’Haïti sous la forme d’un historique git : un fichier par article
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national d’Haïti, que global-law lit sous `haiti/national/acts/`.
 
-**Contenu actuel :** la Constitution du 29 mars 1987, telle que ratifiée et telle qu’amendée en 2011 (texte publié le 19 juin 2012) ; 5 codes dans `codes/` (Code pénal, Code d’instruction criminelle, Code du travail, …) ; et des lois, décrets et arrêtés de 1926 à 2025 (27 lois, 5 décrets-lois, 33 décrets, 24 arrêtés), un dossier par texte, un fichier par article. Voir [STRUCTURE.md](STRUCTURE.md) et `corpus.json`.
+**Contenu actuel :** la Constitution du 29 mars 1987, telle que ratifiée et telle qu’amendée en 2011 (texte publié le 19 juin 2012) ; 5 codes dans `codes/` (Code pénal, Code d’instruction criminelle, Code du travail, …) ; et des lois, décrets et arrêtés de 1926 à 2025 (39 lois, 5 décrets-lois, 59 décrets, 29 arrêtés, dont 43 tirés du Moniteur numérisé par la Digital Library of the Caribbean), un dossier par texte, un fichier par article. Voir [STRUCTURE.md](STRUCTURE.md) et `corpus.json`.
 
 Chaque acte a son propre dossier, avec un fichier par article (`codes/code-du-travail/art-001.md` est l’article 1er du Code du travail ; l’article 1.1 de la Constitution est `constitution/art-001-01.md` et son préambule `constitution/preambule.md`) ; le décret sur les pensions tient en un seul fichier, `decrets/2015/10-09-pension-civile/texte-integral.md`. Le `README.md` de chaque dossier liste ses articles.
 
@@ -64,7 +64,7 @@ Le texte de 1987 est attribué à la Constitution elle-même, et la version de 2
 
 ## Ce qu’il ne montre pas
 
-- **Le journal officiel.** Le Moniteur ne dispose d’aucune archive en ligne complète ; le MEF et la Direction générale du Budget en publient des numéros choisis. La Constitution, les codes et les copies FAOLEX ou haitijustice.com sont des copies de tiers (trailer `Source-status`) : vérifiez-les dans Le Moniteur pour tout usage important.
+- **Le journal officiel.** Le Moniteur n’a pas d’archive officielle en ligne ; le MEF et la Direction générale du Budget en publient des numéros choisis, et la Digital Library of the Caribbean (University of Florida) en a numérisé environ 13 000 numéros de 1845 à 1983, avec une couche texte OCR de la bibliothèque, non relue (accents et chiffres parfois erronés : trailer `Text-source: publisher OCR`). La Constitution, les codes et les copies FAOLEX ou haitijustice.com sont des copies de tiers (trailer `Source-status`) : vérifiez-les dans Le Moniteur pour tout usage important.
 - **Tous les textes.** La plupart des PDF officiels (MEF, Budget) et des copies FAOLEX sont des scans sans couche texte ou avec une couche illisible : ils sont écartés (nous ne faisons pas d’OCR). Restent hors du dépôt pour cette raison le nouveau Code pénal et le nouveau Code de procédure pénale de 2020 (Moniteur spécial no 10, 24 juin 2020 ; entrée en vigueur plusieurs fois reportée) et le Code civil de 1825 (la couche texte de l’édition de 1826 numérisée est trop abîmée). Chaque texte est enregistré tel que publié par la source, en une version ; les modifications ultérieures ne sont pas encore rejouées. Aucun arrêt de la Cour de cassation n’est publié en ligne.
 - **Les modifications ultérieures** : de la Constitution autres que l’amendement de 2011, et du Code du travail ou du décret sur les pensions après les textes utilisés.
 - **Les intitulés** de la Constitution et du Code du travail : les titres, chapitres et sections sont omis ; chaque article est un fichier.
@@ -80,6 +80,7 @@ Le texte de 1987 est attribué à la Constitution elle-même, et la version de 2
 | [MEF](https://www.mef.gouv.ht/cadre-reglementaire/lois) et [Direction générale du Budget](https://budget.gouv.ht/cadre-reglementaire/lois), cadre réglementaire | Numéros du Moniteur publiés par l’État | non, tel que publié | Lois, décrets et arrêtés à couche texte lisible |
 | [FAOLEX](https://faolex.fao.org/) (FAO) | Copies de tiers | non | `Source-status: secondary copy (FAOLEX …)` |
 | haitijustice.com (CRIJ), copies de la [Wayback Machine](https://web.archive.org/web/2016/http://haitijustice.com/) | Copies de tiers ; site fermé | non, textes consolidés par la source | Code pénal, Code d’instruction criminelle, lois ; `Source-status: secondary copy (haitijustice.com …)` |
+| [Digital Library of the Caribbean](https://dloc.com/) (University of Florida ; exemplaires de la Bibliothèque Haïtienne des Spiritains et de la University of Florida) | Numérisations du Moniteur, OCR de la bibliothèque | non, tel que publié | Lois, décrets et arrêtés de portée générale, 1845–1983 ; `Source-status: secondary copy (Digital Library of the Caribbean …)` |
 
 ## Licence
 

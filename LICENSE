@@ -21,6 +21,13 @@ Sources of the bytes, and their terms:
   Internet Archive's Wayback Machine (https://web.archive.org/). Its notice allowed reuse "sous réserve du respect de la mention
   de la source [et] de l'intégrité des documents reproduits": the source is named in every commit ("Source-status: secondary
   copy (haitijustice.com ...)") and the text is not altered beyond splitting it into articles.
+- Digital Library of the Caribbean, University of Florida (https://dloc.com/): scans of Le Moniteur with the library's
+  OCR text layer. Issues 1845-1900s held by the University of Florida are marked "No Copyright - United States"
+  (http://rightsstatements.org/vocab/NoC-US/1.0/); the 1845-1983 issues from the Bibliothèque Haïtienne des Spiritains
+  carry the notice "Copyright Presses Nationales d'Haiti ... Any reuse of this item in excess of fair use or other
+  copyright exemptions requires the permission of the copyright holder": only the official texts (laws, decrees,
+  orders), which the Decree of 2005, art. 5, excludes from copyright, are taken; the rest of each issue is not.
+  Each such commit carries "Source-status: secondary copy (Digital Library of the Caribbean ...)".
 
 The arrangement of this repository, its tables, commit messages and tools are by Lexifina and are dedicated to the public domain
 under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/). This repository is not legal advice and not an

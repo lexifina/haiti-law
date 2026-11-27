@@ -32,6 +32,8 @@ vrai jour figure dans le sujet et dans `In-force:`.
 2. FAOLEX (FAO) : `Source-status: secondary copy (FAOLEX, …)`.
 3. haitijustice.com (Centre de recherche et d’information juridiques, CRIJ) : site fermé, copies de la Wayback Machine,
    `Source-status: secondary copy (haitijustice.com …)`.
+4. Le Moniteur numérisé par la Digital Library of the Caribbean (University of Florida), 1845–1983 : couche texte OCR de
+   la bibliothèque, `Source-status: secondary copy (Digital Library of the Caribbean …)`, `Text-source: publisher OCR`.
 
 Seuls les PDF dont la couche texte est lisible et complète sont repris (pas d’OCR de notre part) ; une couche posée par
 l’éditeur sur un scan est signalée `Text-source: publisher OCR`.

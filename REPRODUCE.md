@@ -93,3 +93,13 @@ the text cites (In-force-basis gives it). One commit per act, noon America/Port-
 with ls-remote. A single pure-rename commit moved `code-du-travail/` to `codes/` and the 2015 pension decree to `decrets/2015/`.
 Held, with reasons, in the runner's state-acts.json: scans, undated texts, the 2020 Penal Code (scan pages), the 1826 Civil
 Code (damaged text layer).
+
+`mon_build.py mon` (detached, below-normal priority, progress-mon.log): lists every issue of Le Moniteur held by the
+Digital Library of the Caribbean (https://api.dloc.patron.uflib.ufl.edu/all_vids_in_bibid?bibid=UF00076854, AA00098215,
+AA00098214), newest first; reads each issue's citation record and its PDF from ufdcimages.uflib.ufl.edu; takes the PDF's
+existing text layer (library OCR; no OCR of our own) and cuts it into acts: from the preamble ("Vu ..." / "Considérant ...")
+to the "Donné au Palais National ..., le <date>" line, with an operative verb (DÉCRÈTE, ARRÊTE, a voté la loi suivante) and
+at least one article. Each act passes a text gate (word share >= 0.85, function words >= 0.15, little noise); individual
+measures (appointments, pensions, naturalisations, company authorisations, land sales, declarations of public utility) are
+left out. In-force is the issue's day of publication (dLOC catalogue date); the act's own date, read from its "Donné" line,
+is in the title and In-force-basis. Pre-1970 acts carry the 1970-01-01 stamp with the real day in the subject.

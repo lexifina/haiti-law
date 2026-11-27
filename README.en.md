@@ -11,7 +11,7 @@ The law of Haiti as a git history: one file per article, one commit per version 
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Haiti's national law, which global-law reads at `haiti/national/acts/`.
 
-**What is in it now:** the Constitution of 29 March 1987, as ratified and as amended in 2011 (text published 19 June 2012); 5 codes in `codes/` (Penal Code, Code of Criminal Procedure, Labour Code, …); and laws, decrees and orders from 1926 to 2025 (27 laws, 5 decree-laws, 33 decrees, 24 orders (arrêtés)), one folder per text, one file per article. See [STRUCTURE.md](STRUCTURE.md) and `corpus.json`.
+**What is in it now:** the Constitution of 29 March 1987, as ratified and as amended in 2011 (text published 19 June 2012); 5 codes in `codes/` (Penal Code, Code of Criminal Procedure, Labour Code, …); and laws, decrees and orders from 1926 to 2025 (39 laws, 5 decree-laws, 59 decrees, 29 orders (arrêtés); 43 of them from Le Moniteur as digitised by the Digital Library of the Caribbean), one folder per text, one file per article. See [STRUCTURE.md](STRUCTURE.md) and `corpus.json`.
 
 Each act has its own folder, with one file per article (`codes/code-du-travail/art-001.md` is Article 1 of the Code du travail; the Constitution's Article 1.1 is `constitution/art-001-01.md` and its preamble `constitution/preambule.md`); the pension decree is one file, `decrets/2015/10-09-pension-civile/texte-integral.md`. Each folder's `README.md` lists its articles.
 
@@ -64,7 +64,7 @@ The 1987 text is credited to the Constitution itself, and the 2012 version to th
 
 ## What it does not show
 
-- **The official gazette.** Le Moniteur has no comprehensive online archive; the Constitution and the Code du travail are unofficial third-party copies, so check them against Le Moniteur for anything that matters.
+- **The official gazette.** Le Moniteur has no official online archive; the Digital Library of the Caribbean (University of Florida) has digitised about 13,000 issues from 1845 to 1983 with the library's own OCR text layer, not proofread (accents and figures are sometimes wrong: trailer `Text-source: publisher OCR`); the Constitution and the Code du travail are unofficial third-party copies, so check them against Le Moniteur for anything that matters.
 - **All texts.** Most official PDFs (MEF, Budget) and FAOLEX copies are scans with no text layer or an unreadable one: they are left out (we do no OCR). Left out for that reason: the new Penal Code and Code of Criminal Procedure of 2020 (Moniteur spécial no 10, 24 June 2020; entry into force postponed several times) and the Civil Code of 1825 (the text layer of the scanned 1826 edition is too damaged). Each text is recorded as published by its source, in one version; later amendments are not yet replayed. No Cour de cassation judgments are published online.
 - **Later changes**: to the Constitution other than the 2011 amendment, and to the Code du travail or the pension decree after the texts used.
 - **Headings** of the Constitution and the Code du travail: titles, chapters and sections are left out; each article is a file.
@@ -80,6 +80,7 @@ The 1987 text is credited to the Constitution itself, and the 2012 version to th
 | [MEF](https://www.mef.gouv.ht/cadre-reglementaire/lois) and [Direction générale du Budget](https://budget.gouv.ht/cadre-reglementaire/lois), regulatory framework pages | Le Moniteur issues published by the State | no, as published | Laws, decrees and orders with a readable text layer |
 | [FAOLEX](https://faolex.fao.org/) (FAO) | Third-party copies | no | `Source-status: secondary copy (FAOLEX …)` |
 | haitijustice.com (CRIJ), [Wayback Machine](https://web.archive.org/web/2016/http://haitijustice.com/) copies | Third-party copies; site closed | no, texts consolidated by the source | Penal Code, Code of Criminal Procedure, laws; `Source-status: secondary copy (haitijustice.com …)` |
+| [Digital Library of the Caribbean](https://dloc.com/) (University of Florida; copies of the Bibliothèque Haïtienne des Spiritains and the University of Florida) | Scans of Le Moniteur, library OCR | no, as published | Laws, decrees and orders of general scope, 1845–1983; `Source-status: secondary copy (Digital Library of the Caribbean …)` |
 
 ## Licence
 
