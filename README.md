@@ -11,9 +11,9 @@ Le droit d’Haïti sous la forme d’un historique git : un fichier par article
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national d’Haïti, que global-law lit sous `haiti/national/acts/`.
 
-**Contenu actuel :** trois actes, en quatre versions : la Constitution du 29 mars 1987, telle que ratifiée et telle qu’amendée en 2011 (le texte corrigé publié le 19 juin 2012) ; le Code du travail, en une version ; et le décret du 9 octobre 2015 sur les pensions civiles, en une version. C’est là tout le droit que ce dépôt contient aujourd’hui.
+**Contenu actuel :** la Constitution du 29 mars 1987, telle que ratifiée et telle qu’amendée en 2011 (texte publié le 19 juin 2012) ; 4 codes dans `codes/` (Code pénal, Code d’instruction criminelle, Code du travail, …) ; et des lois, décrets et arrêtés de 1926 à 2025 (26 lois, 6 décrets-lois, 34 décrets, 24 arrêtés), un dossier par texte, un fichier par article. Voir [STRUCTURE.md](STRUCTURE.md) et `corpus.json`.
 
-Chaque acte a son propre dossier, avec un fichier par article (`code-du-travail/art-001.md` est l’article 1er du Code du travail ; l’article 1.1 de la Constitution est `constitution/art-001-01.md` et son préambule `constitution/preambule.md`) ; le décret sur les pensions tient en un seul fichier, `decret-pension-civile-2015/texte-integral.md`. Le `README.md` de chaque dossier liste ses articles.
+Chaque acte a son propre dossier, avec un fichier par article (`codes/code-du-travail/art-001.md` est l’article 1er du Code du travail ; l’article 1.1 de la Constitution est `constitution/art-001-01.md` et son préambule `constitution/preambule.md`) ; le décret sur les pensions tient en un seul fichier, `decrets/2015/10-09-pension-civile/texte-integral.md`. Le `README.md` de chaque dossier liste ses articles.
 
 Le texte est en français, tel que les sources l’impriment. Les textes en créole haïtien et les traductions anglaises ne font pas partie de ce corpus.
 
@@ -21,10 +21,10 @@ Le texte est en français, tel que les sources l’impriment. Les textes en cré
 
 | Question | Commande |
 | --- | --- |
-| Toutes les modifications de l’article 1er du Code du travail | `git log -p --word-diff -- code-du-travail/art-001.md` |
-| Quel acte a rédigé chaque ligne de l’article 1er ? | `git blame code-du-travail/art-001.md` |
-| Toutes les versions du Code du travail, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail` |
-| L’article 1er tel qu’en vigueur au 1er janvier 2015 | `python tools/on.py 2015-01-01 code-du-travail art-001` |
+| Toutes les modifications de l’article 1er du Code du travail | `git log -p --word-diff -- codes/code-du-travail/art-001.md` |
+| Quel acte a rédigé chaque ligne de l’article 1er ? | `git blame codes/code-du-travail/art-001.md` |
+| Toutes les versions du Code du travail, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/code-du-travail` |
+| L’article 1er tel qu’en vigueur au 1er janvier 2015 | `python tools/on.py 2015-01-01 codes/code-du-travail art-001` |
 
 **En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :
 
@@ -40,7 +40,7 @@ Les deux assistants lisent le corpus au moyen du connecteur gratuit Global law (
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add haiti/national/acts
-python3 tools/law.py show 2026-01-01 haiti/national/acts/code-du-travail/art-001.md
+python3 tools/law.py show 2026-01-01 haiti/national/acts/codes/code-du-travail/art-001.md
 ```
 
 Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -64,8 +64,8 @@ Le texte de 1987 est attribué à la Constitution elle-même, et la version de 2
 
 ## Ce qu’il ne montre pas
 
-- **Le journal officiel.** Le Moniteur ne dispose d’aucune archive en ligne complète ; la Constitution et le Code du travail sont des copies non officielles de tiers : vérifiez-les dans Le Moniteur pour tout usage important.
-- **Tout autre texte du droit haïtien**, comme le Code civil et le Code pénal. La Loi portant prévention et répression de la corruption (Le Moniteur no 87, 9 mai 2014) est préparée mais reste hors du corpus jusqu’à l’achèvement d’un examen indépendant.
+- **Le journal officiel.** Le Moniteur ne dispose d’aucune archive en ligne complète ; le MEF et la Direction générale du Budget en publient des numéros choisis. La Constitution, les codes et les copies FAOLEX ou haitijustice.com sont des copies de tiers (trailer `Source-status`) : vérifiez-les dans Le Moniteur pour tout usage important.
+- **Tous les textes.** La plupart des PDF officiels (MEF, Budget) et des copies FAOLEX sont des scans sans couche texte ou avec une couche illisible : ils sont écartés (nous ne faisons pas d’OCR). Restent hors du dépôt pour cette raison le nouveau Code pénal et le nouveau Code de procédure pénale de 2020 (Moniteur spécial no 10, 24 juin 2020 ; entrée en vigueur plusieurs fois reportée) et le Code civil de 1825 (la couche texte de l’édition de 1826 numérisée est trop abîmée). Chaque texte est enregistré tel que publié par la source, en une version ; les modifications ultérieures ne sont pas encore rejouées. Aucun arrêt de la Cour de cassation n’est publié en ligne.
 - **Les modifications ultérieures** : de la Constitution autres que l’amendement de 2011, et du Code du travail ou du décret sur les pensions après les textes utilisés.
 - **Les intitulés** de la Constitution et du Code du travail : les titres, chapitres et sections sont omis ; chaque article est un fichier.
 - **Sept articles du Code du travail** (426, 483, 505 et 507 à 510) : la copie n’en imprime qu’un résumé, et ces fichiers indiquent que la source ne donne pas le texte.
@@ -77,10 +77,13 @@ Le texte de 1987 est attribué à la Constitution elle-même, et la version de 2
 | [Digithèque MJP](https://mjp.univ-perp.fr/constit/ht1987.htm), Université de Perpignan | Copie de la Constitution par un tiers | oui, le texte de 1987 et le [texte amendé](https://mjp.univ-perp.fr/constit/ht2011.htm) | Non officielle ; la page du texte amendé signale les mots abrogés et nouveaux |
 | [CEPAL, Observatoire de l’égalité des genres](https://oig.cepal.org/sites/default/files/2003_codtravail_hti.pdf) | Copie du Code du travail par un tiers | non, une seule copie (2010) | Non officielle |
 | [Le Moniteur no 205](https://www.mef.gouv.ht/storage/app/uploads/public/622/0fc/989/6220fc98951f1364533445.pdf) (Ministère de l'Économie et des Finances) | Journal officiel | non, tel que publié | Le décret de 2015 sur les pensions |
+| [MEF](https://www.mef.gouv.ht/cadre-reglementaire/lois) et [Direction générale du Budget](https://budget.gouv.ht/cadre-reglementaire/lois), cadre réglementaire | Numéros du Moniteur publiés par l’État | non, tel que publié | Lois, décrets et arrêtés à couche texte lisible |
+| [FAOLEX](https://faolex.fao.org/) (FAO) | Copies de tiers | non | `Source-status: secondary copy (FAOLEX …)` |
+| haitijustice.com (CRIJ), copies de la [Wayback Machine](https://web.archive.org/web/2016/http://haitijustice.com/) | Copies de tiers ; site fermé | non, textes consolidés par la source | Code pénal, Code d’instruction criminelle, lois ; `Source-status: secondary copy (haitijustice.com …)` |
 
 ## Licence
 
-Voir `LICENSE`. Le Décret haïtien du 12 octobre 2005 sur le droit d’auteur (article 5) exclut de la protection les textes législatifs officiels ; les hébergeurs tiers sont cités comme source des octets. L’organisation, les tableaux, les messages de commit et les outils sont sous licence CC BY 4.0.
+Voir `LICENSE`. Le Décret haïtien du 12 octobre 2005 sur le droit d’auteur (article 5) exclut de la protection les textes législatifs officiels ; les hébergeurs tiers sont cités comme source des octets. L’organisation, les tableaux, les messages de commit et les outils sont versés au domaine public (CC0 1.0).
 
 Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique ; les scripts ont été écrits par un modèle d’IA, et un modèle a identifié les limites des documents et les dates des sources (voir `REPRODUCE.md`).
 

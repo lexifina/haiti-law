@@ -80,3 +80,16 @@ Model use at data-build time:
 - none
 - none
 - A model identified document boundaries and source dates; no model-generated or model-corrected words appear in the law text.
+
+## Runner pass of 2026-11-27 (scripts/haiti-law/runner)
+
+`ht_build.py acts` (detached, below-normal priority, progress.log): plans the official MEF / Direction générale du Budget
+"Cadre réglementaire" catalogues (Le Moniteur PDFs), the FAOLEX records for Haiti (from the public FAOLEX sitemaps, plans and
+policies left out), and the haitijustice.com PDFs captured by the Wayback Machine (CDX, status 200); for the same act the
+official copy wins, then FAOLEX, then haitijustice.com. Every PDF goes through a text gate (>= 250 characters a page, no image
+page without text, >= 0.88 word share, French function words >= 0.17): scans are held, no OCR is done. Dates are the act's own
+date in its title; for the two consolidated codes (Code pénal, Code d'instruction criminelle) the day of the latest amending act
+the text cites (In-force-basis gives it). One commit per act, noon America/Port-au-Prince; pushes are fast-forward and checked
+with ls-remote. A single pure-rename commit moved `code-du-travail/` to `codes/` and the 2015 pension decree to `decrets/2015/`.
+Held, with reasons, in the runner's state-acts.json: scans, undated texts, the 2020 Penal Code (scan pages), the 1826 Civil
+Code (damaged text layer).

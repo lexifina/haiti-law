@@ -11,9 +11,9 @@ The law of Haiti as a git history: one file per article, one commit per version 
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Haiti's national law, which global-law reads at `haiti/national/acts/`.
 
-**What is in it now:** three acts, with four versions: the Constitution of 29 March 1987, as ratified and as amended in 2011 (the corrected text published on 19 June 2012); the Code du travail, in one version; and the decree of 9 October 2015 on civil pensions, in one version. That is all the law this repository holds today.
+**What is in it now:** the Constitution of 29 March 1987, as ratified and as amended in 2011 (text published 19 June 2012); 4 codes in `codes/` (Penal Code, Code of Criminal Procedure, Labour Code, …); and laws, decrees and orders from 1926 to 2025 (26 laws, 6 decree-laws, 34 decrees, 24 orders (arrêtés)), one folder per text, one file per article. See [STRUCTURE.md](STRUCTURE.md) and `corpus.json`.
 
-Each act has its own folder, with one file per article (`code-du-travail/art-001.md` is Article 1 of the Code du travail; the Constitution's Article 1.1 is `constitution/art-001-01.md` and its preamble `constitution/preambule.md`); the pension decree is one file, `decret-pension-civile-2015/texte-integral.md`. Each folder's `README.md` lists its articles.
+Each act has its own folder, with one file per article (`codes/code-du-travail/art-001.md` is Article 1 of the Code du travail; the Constitution's Article 1.1 is `constitution/art-001-01.md` and its preamble `constitution/preambule.md`); the pension decree is one file, `decrets/2015/10-09-pension-civile/texte-integral.md`. Each folder's `README.md` lists its articles.
 
 The text is in French, as the sources print it. Haitian Creole texts and English translations are not part of this record.
 
@@ -21,10 +21,10 @@ The text is in French, as the sources print it. Haitian Creole texts and English
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 1 of the Code du travail | `git log -p --word-diff -- code-du-travail/art-001.md` |
-| Which act wrote each line of Article 1? | `git blame code-du-travail/art-001.md` |
-| Every version of the Code du travail, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail` |
-| Article 1 as in force on 1 January 2015 | `python tools/on.py 2015-01-01 code-du-travail art-001` |
+| Every change to Article 1 of the Code du travail | `git log -p --word-diff -- codes/code-du-travail/art-001.md` |
+| Which act wrote each line of Article 1? | `git blame codes/code-du-travail/art-001.md` |
+| Every version of the Code du travail, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/code-du-travail` |
+| Article 1 as in force on 1 January 2015 | `python tools/on.py 2015-01-01 codes/code-du-travail art-001` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -40,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add haiti/national/acts
-python3 tools/law.py show 2026-01-01 haiti/national/acts/code-du-travail/art-001.md
+python3 tools/law.py show 2026-01-01 haiti/national/acts/codes/code-du-travail/art-001.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -65,7 +65,7 @@ The 1987 text is credited to the Constitution itself, and the 2012 version to th
 ## What it does not show
 
 - **The official gazette.** Le Moniteur has no comprehensive online archive; the Constitution and the Code du travail are unofficial third-party copies, so check them against Le Moniteur for anything that matters.
-- **Any other Haitian law**, such as the Code civil and the Code pénal. The Loi portant prévention et répression de la corruption (Le Moniteur no 87, 9 May 2014) is prepared but stays outside the record until an independent review is complete.
+- **All texts.** Most official PDFs (MEF, Budget) and FAOLEX copies are scans with no text layer or an unreadable one: they are left out (we do no OCR). Left out for that reason: the new Penal Code and Code of Criminal Procedure of 2020 (Moniteur spécial no 10, 24 June 2020; entry into force postponed several times) and the Civil Code of 1825 (the text layer of the scanned 1826 edition is too damaged). Each text is recorded as published by its source, in one version; later amendments are not yet replayed. No Cour de cassation judgments are published online.
 - **Later changes**: to the Constitution other than the 2011 amendment, and to the Code du travail or the pension decree after the texts used.
 - **Headings** of the Constitution and the Code du travail: titles, chapters and sections are left out; each article is a file.
 - **Seven articles of the Code du travail** (426, 483, 505 and 507 to 510): the copy prints only a summary, and those files say the source does not give the text.
@@ -77,10 +77,13 @@ The 1987 text is credited to the Constitution itself, and the 2012 version to th
 | [Digithèque MJP](https://mjp.univ-perp.fr/constit/ht1987.htm), Université de Perpignan | Third-party copy of the Constitution | yes, the 1987 text and the [amended text](https://mjp.univ-perp.fr/constit/ht2011.htm) | Unofficial; the amended page marks repealed and new words |
 | [CEPAL, Gender Equality Observatory](https://oig.cepal.org/sites/default/files/2003_codtravail_hti.pdf) | Third-party copy of the Code du travail | no, one copy (2010) | Unofficial |
 | [Le Moniteur no 205](https://www.mef.gouv.ht/storage/app/uploads/public/622/0fc/989/6220fc98951f1364533445.pdf) (Ministère de l'Économie et des Finances) | Official gazette | no, as published | The 2015 pension decree |
+| [MEF](https://www.mef.gouv.ht/cadre-reglementaire/lois) and [Direction générale du Budget](https://budget.gouv.ht/cadre-reglementaire/lois), regulatory framework pages | Le Moniteur issues published by the State | no, as published | Laws, decrees and orders with a readable text layer |
+| [FAOLEX](https://faolex.fao.org/) (FAO) | Third-party copies | no | `Source-status: secondary copy (FAOLEX …)` |
+| haitijustice.com (CRIJ), [Wayback Machine](https://web.archive.org/web/2016/http://haitijustice.com/) copies | Third-party copies; site closed | no, texts consolidated by the source | Penal Code, Code of Criminal Procedure, laws; `Source-status: secondary copy (haitijustice.com …)` |
 
 ## Licence
 
-See `LICENSE`. Haiti's Decree of 12 October 2005 on copyright (Article 5) excludes official legislative texts from protection; the third-party hosts are credited as the source of the bytes. The arrangement, tables, commit messages and tools are CC BY 4.0.
+See `LICENSE`. Haiti's Decree of 12 October 2005 on copyright (Article 5) excludes official legislative texts from protection; the third-party hosts are credited as the source of the bytes. The arrangement, tables, commit messages and tools are dedicated to the public domain (CC0 1.0).
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model, and a model identified document boundaries and source dates (see `REPRODUCE.md`).
 
