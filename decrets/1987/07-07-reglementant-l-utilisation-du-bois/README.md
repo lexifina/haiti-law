@@ -1,4 +1,4 @@
-# Decret du 7 Juillet 1987 reglementant l'utilisation du bois energie DECRET LE CONS Ell NATIONAL DE GOUVERNEMENT
+# Décret du 7 juillet 1987 réglementant l’utilisation du bois énergie
 
 - Source : FAOLEX (FAO), fiche LEX-FAOC088877, <https://faolex.fao.org/docs/pdf/hai88877.pdf>
 - Date : 1987-07-07 (date de l’acte dans son intitulé ; jour de publication au Moniteur non donné par la source)

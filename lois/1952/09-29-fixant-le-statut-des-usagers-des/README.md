@@ -1,4 +1,4 @@
-# Loi du 29 Septembre 1952 fixant le statut des usagers des systcmee d'irrigation ct do drainage otabUs o~ control6s par l'Etat. LOI
+# Loi du 29 septembre 1952 fixant le statut des usagers des systèmes d’irrigation et de drainage établis ou contrôlés par l’État
 
 - Source : FAOLEX (FAO), fiche LEX-FAOC078759, <https://faolex.fao.org/docs/pdf/hai78759.pdf>
 - Date : 1952-09-29 (date de l’acte dans son intitulé ; jour de publication au Moniteur non donné par la source)

@@ -1,4 +1,4 @@
-# Decret du 29 Janvier 1959 Moniteur # 21 du 30 Janvier 1959. ART: 1 La loi du 20 Septembre 1952et l'arrete du 17 Mars 1953 sur I'irrigation et la perception
+# Décret du 29 janvier 1959 modifiant la loi du 20 septembre 1952 et l’arrêté du 17 mars 1953 sur l’irrigation et la perception des taxes (vallée de l’Artibonite)
 
 - Source : FAOLEX (FAO), fiche LEX-FAOC088240, <https://faolex.fao.org/docs/pdf/hai88240.pdf>
 - Date : 1959-01-29 (date de l’acte dans son intitulé ; jour de publication au Moniteur non donné par la source)
