@@ -1,0 +1,34 @@
+{
+ "corpus": "ht/national/acts",
+ "jurisdiction": "Haïti",
+ "generated_from": "runner state",
+ "acts": [
+  {
+   "id": "codes/code-d-instruction-criminelle",
+   "kind": "code",
+   "date": "1988-07-04",
+   "title": "Code d’instruction criminelle (1835), texte à jour du décret du 4 juillet 1988",
+   "source": "https://web.archive.org/web/20160705111904id_/http://haitijustice.com/pdf/accesauxcodes/code_instruction_criminelle_haiti.pdf",
+   "text_layer": "born-digital",
+   "articles": 462
+  },
+  {
+   "id": "codes/code-penal",
+   "kind": "code",
+   "date": "2005-08-11",
+   "title": "Code pénal (1835), texte à jour du décret du 6 juillet 2005 sur les agressions sexuelles",
+   "source": "https://web.archive.org/web/20160705063335id_/http://haitijustice.com/pdf/accesauxcodes/code_penal_haiti.pdf",
+   "text_layer": "born-digital",
+   "articles": 408
+  },
+  {
+   "id": "lois/2016/05-04-remplacant-le-decret-du-16-fevrier-2005",
+   "kind": "loi",
+   "date": "2016-05-04",
+   "title": "Loi du 4 Mai 2016 Remplaçant le décret du 16 Février 2005 sur le processus d'élaboration et d'exécution des lois de Finances",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/621/ff9/ea9/621ff9ea99351107048036.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 115
+  }
+ ]
+}
