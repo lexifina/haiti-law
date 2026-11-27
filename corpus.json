@@ -31,6 +31,26 @@
    "articles": 4
   },
   {
+   "id": "arretes/1983/07-12-ampliation-present-arrete-sera-delivree-chacun",
+   "kind": "arrete",
+   "date": "1983-09-01",
+   "act_date": "1983-07-12",
+   "title": "Arrêté du 12 juillet 1983 : Une ampliation du présent Arrêté sera délivrée à chacun des membres du Conseil d'Administration de la SONAPI",
+   "source": "https://ufdcimages.uflib.ufl.edu/UF/00/07/68/54/09104/1983-09-01.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "arretes/1983/08-29-commission-composee-citoyens",
+   "kind": "arrete",
+   "date": "1983-08-29",
+   "act_date": "1983-08-29",
+   "title": "Arrêté du 29 août 1983 : Une Commission composée des citoyens",
+   "source": "https://ufdcimages.uflib.ufl.edu/UF/00/07/68/54/09103/1983-08-29.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
    "id": "arretes/1983/09-08-demeurent-soumis-egime-contingentement",
    "kind": "arrete",
    "date": "1983-09-12",
@@ -537,6 +557,16 @@
    "articles": 2
   },
   {
+   "id": "decrets/1983/07-18-cinquieme-session-ordinaire-legislature",
+   "kind": "decret",
+   "date": "1983-08-08",
+   "act_date": "1983-07-18",
+   "title": "Décret du 18 juillet 1983 : La Cinquième Session Ordinaire de la 42~me Législature est prolongée d'un mois, jusqu'au 22 août 1983",
+   "source": "https://ufdcimages.uflib.ufl.edu/UF/00/07/68/54/09097/1983-08-08.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
    "id": "decrets/1983/07-31-demeure-sanctionnee-sortir-plefn-entier-effet",
    "kind": "decret",
    "date": "1983-10-10",
@@ -545,6 +575,16 @@
    "source": "https://ufdcimages.uflib.ufl.edu/UF/00/07/68/54/09115/1983-10-10.pdf",
    "text_layer": "publisher-ocr",
    "articles": 3
+  },
+  {
+   "id": "decrets/1983/08-30-banque-republique-haiti-autorisee-emettre",
+   "kind": "decret",
+   "date": "1983-09-01",
+   "act_date": "1983-08-30",
+   "title": "Décret du 30 août 1983 : La Banque de la République d'Haiti c~t autorisée à émettre des monnaies en or et en argent ayant cours légal en vue de la Commémoration de l",
+   "source": "https://ufdcimages.uflib.ufl.edu/UF/00/07/68/54/09104/1983-09-01.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
   },
   {
    "id": "decrets/1983/08-31-gouvernement-haiti-autorise-emettre-bons",
@@ -1093,6 +1133,26 @@
    "articles": 2
   },
   {
+   "id": "lois/1983/08-22-articles-code-douanier-francois-duvalier-ainsi",
+   "kind": "loi",
+   "date": "1983-09-25",
+   "act_date": "1983-08-22",
+   "title": "Loi du 22 août 1983 : Les articles 379, 380,381, 382, 383 et 385 du Code Douanier Dr. François Duvalier sont ainsi mo~ fiés",
+   "source": "https://ufdcimages.uflib.ufl.edu/UF/00/07/68/54/09111/1983-09-25.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "lois/1983/08-22-institue-cadre-depar-tement-finances-affaires",
+   "kind": "loi",
+   "date": "1983-09-25",
+   "act_date": "1983-08-22",
+   "title": "Loi du 22 août 1983 : Il est institué dans le cadre du Dépar· tement des Finances et des Affaires Economiques un Hu-· reau dénommé",
+   "source": "https://ufdcimages.uflib.ufl.edu/UF/00/07/68/54/09111/1983-09-25.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 20
+  },
+  {
    "id": "lois/1983/08-23-document-intitule-plan-nuel-exercice",
    "kind": "loi",
    "date": "1983-09-29",
@@ -1101,6 +1161,26 @@
    "source": "https://ufdcimages.uflib.ufl.edu/UF/00/07/68/54/09112/1983-09-29.pdf",
    "text_layer": "publisher-ocr",
    "articles": 7
+  },
+  {
+   "id": "lois/1983/09-25-article-code-uouanier-docteur-francois-aller",
+   "kind": "loi",
+   "date": "1983-09-25",
+   "act_date": null,
+   "title": "Loi publiée au Moniteur du 25 septembre 1983 : L'article 336 du Code uouanier Docteur François DW ALlER demeure ainsi modifié",
+   "source": "https://ufdcimages.uflib.ufl.edu/UF/00/07/68/54/09111/1983-09-25.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "lois/1983/09-25-paragraphe-article-loi-aout-relative-carte",
+   "kind": "loi",
+   "date": "1983-09-25",
+   "act_date": null,
+   "title": "Loi publiée au Moniteur du 25 septembre 1983 : Le paragraphe \"a\" de l'Article 6 de la Loi du 27 août 1969 relative, à la carte d'identité .se lira désonnais comme suit",
+   "source": "https://ufdcimages.uflib.ufl.edu/UF/00/07/68/54/09111/1983-09-25.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
   },
   {
    "id": "lois/1983/09-29-banque-republique-hai-presentes-autorisee",
