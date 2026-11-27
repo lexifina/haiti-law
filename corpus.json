@@ -7,7 +7,7 @@
    "id": "arretes/1926/04-30-sur-la-foret-nationale-de-st-rapahel",
    "kind": "arrete",
    "date": "1926-04-30",
-   "title": "Arrete du 30 Avril 1926 sur la Foret Nationale de St-Rapahel. Refs •Moniteur no. 36 du Jeudi 16 Mai 1926. ARRE1'E PRESIDENT nf>H0aEPUBLIQUE",
+   "title": "Arrêté du 30 avril 1926 sur la Forêt nationale de St-Rapahel",
    "source": "https://faolex.fao.org/docs/pdf/hai39452.pdf",
    "text_layer": "publisher-ocr",
    "articles": 1
@@ -40,10 +40,10 @@
    "articles": 3
   },
   {
-   "id": "arretes/1992/10-08-declarant-d-utifite-publique-quelques",
+   "id": "arretes/1992/10-08-declarant-d-utilite-publique-quelques",
    "kind": "arrete",
    "date": "1992-10-08",
-   "title": "Arrete du 8 Octobre 1992 declarant d'utifite publique quelques quinze (15) sources d'eau",
+   "title": "Arrêté du 8 octobre 1992 déclarant d’utilité publique quelques quinze (15) sources d’eau",
    "source": "https://faolex.fao.org/docs/pdf/hai78751.pdf",
    "text_layer": "publisher-ocr",
    "articles": 3
@@ -238,6 +238,15 @@
    "articles": 82
   },
   {
+   "id": "codes/code-douanier",
+   "kind": "code",
+   "date": "1987-05-05",
+   "title": "Décret du 5 mai 1987 relatif au Code douanier sommaire",
+   "source": "https://web.archive.org/web/20160705070657id_/http://haitijustice.com/pdf/accesauxcodes/code_douanier_haiti.pdf",
+   "text_layer": "born-digital",
+   "articles": 468
+  },
+  {
    "id": "codes/code-penal",
    "kind": "code",
    "date": "2005-08-11",
@@ -292,15 +301,6 @@
    "articles": 15
   },
   {
-   "id": "decrets-lois/1959/01-27-et-le-decret-du-27-janvier-1959-le",
-   "kind": "decret-loi",
-   "date": "1959-01-27",
-   "title": "Décret-loi dr 22 décembre 1944 et le Décret du 27 janvier 1959 ; << LE MONITEUR >> No. 105 - Mercredi 4 Juin 2014",
-   "source": "https://web.archive.org/web/20160615021251id_/http://haitijustice.com/pdf/legislation/loi-sur-la-paternite-et-la-filiation-avocat-haitien-jude-baptiste-test-adn-haiti-justice-signed.pdf",
-   "text_layer": "publisher-ocr",
-   "articles": 13
-  },
-  {
    "id": "decrets/1936/05-13-sanctionnant-la-convention",
    "kind": "decret",
    "date": "1936-05-13",
@@ -319,10 +319,10 @@
    "articles": 3
   },
   {
-   "id": "decrets/1959/01-29-moniteur-21-du-30-janvier-1959-art-1-la",
+   "id": "decrets/1959/01-29-modifiant-la-loi-du-20-septembre-1952-sur-l-irrigation",
    "kind": "decret",
    "date": "1959-01-29",
-   "title": "Decret du 29 Janvier 1959 Moniteur # 21 du 30 Janvier 1959. ART: 1 La loi du 20 Septembre 1952et l'arrete du 17 Mars 1953 sur I'irrigation et la perception",
+   "title": "Décret du 29 janvier 1959 modifiant la loi du 20 septembre 1952 et l’arrêté du 17 mars 1953 sur l’irrigation et la perception des taxes (vallée de l’Artibonite)",
    "source": "https://faolex.fao.org/docs/pdf/hai88240.pdf",
    "text_layer": "publisher-ocr",
    "articles": 0
@@ -409,7 +409,7 @@
    "articles": 175
   },
   {
-   "id": "decrets/1978/10-27-texte",
+   "id": "decrets/1978/10-27-reglementant-l-exercice-du-droit-de-peche",
    "kind": "decret",
    "date": "1978-10-27",
    "title": "Décret réglementant l'exercice du droit de pêche en Haiti, 1978",
@@ -463,19 +463,10 @@
    "articles": 27
   },
   {
-   "id": "decrets/1987/05-05-relatif-au-code-douanier-sommaire",
-   "kind": "decret",
-   "date": "1987-05-05",
-   "title": "DÉCRET DU 5 MAI 1987 RELATIF AU CODE DOUANIER SOMMAIRE Préambule Chapitre I. Dispositions préliminaires [Articles 1, 2]",
-   "source": "https://web.archive.org/web/20160705070657id_/http://haitijustice.com/pdf/accesauxcodes/code_douanier_haiti.pdf",
-   "text_layer": "born-digital",
-   "articles": 468
-  },
-  {
    "id": "decrets/1987/07-07-reglementant-l-utilisation-du-bois",
    "kind": "decret",
    "date": "1987-07-07",
-   "title": "Decret du 7 Juillet 1987 reglementant l'utilisation du bois energie DECRET LE CONS Ell NATIONAL DE GOUVERNEMENT",
+   "title": "Décret du 7 juillet 1987 réglementant l’utilisation du bois énergie",
    "source": "https://faolex.fao.org/docs/pdf/hai88877.pdf",
    "text_layer": "publisher-ocr",
    "articles": 11
@@ -502,7 +493,7 @@
    "id": "decrets/1995/08-22-relatif-a-l-organisation-judiciaire",
    "kind": "decret",
    "date": "1995-08-22",
-   "title": "Décret du 22 août 1995 relatif à l’organisation judiciaire république d’haïti ministère de la justice décret du 22 août 1995 relatif à l’organisation judiciaire",
+   "title": "Décret du 22 août 1995 relatif à l’organisation judiciaire",
    "source": "https://web.archive.org/web/20160704233824id_/http://haitijustice.com/pdf/legislation/D%C3%A9cret-relatif-a-l-organisation-judiciaire-haiti-jude-baptiste-avocat.pdf",
    "text_layer": "born-digital",
    "articles": 167
@@ -619,7 +610,7 @@
    "id": "lois/1936/05-08-constituant-la-zone-reservee-cerisier",
    "kind": "loi",
    "date": "1936-05-08",
-   "title": "Loi du 8 Mai 1936 constituant la zone reservee Cerisier, Plaisance t.roni teur No.44 du Jeudi 21 Mai l936 LOI STENIO VINCENT",
+   "title": "Loi du 8 mai 1936 constituant la zone réservée Cerisier, Plaisance",
    "source": "https://faolex.fao.org/docs/pdf/hai39445.pdf",
    "text_layer": "publisher-ocr",
    "articles": 5
@@ -664,13 +655,13 @@
    "id": "lois/1952/09-29-fixant-le-statut-des-usagers-des",
    "kind": "loi",
    "date": "1952-09-29",
-   "title": "Loi du 29 Septembre 1952 fixant le statut des usagers des systcmee d'irrigation ct do drainage otabUs o~ control6s par l'Etat. LOI",
+   "title": "Loi du 29 septembre 1952 fixant le statut des usagers des systèmes d’irrigation et de drainage établis ou contrôlés par l’État",
    "source": "https://faolex.fao.org/docs/pdf/hai78759.pdf",
    "text_layer": "publisher-ocr",
    "articles": 10
   },
   {
-   "id": "lois/1955/08-19-85",
+   "id": "lois/1955/08-19-loi-1955-85",
    "kind": "loi",
    "date": "1955-08-19",
    "title": "Loi 1955/85",
@@ -754,7 +745,7 @@
    "id": "lois/1994/11-29-portant-creation-organisation-et",
    "kind": "loi",
    "date": "1994-11-29",
-   "title": "Loi du 29 novembre 1994 portant création, organisation et fonctionnement de la police nationale le moniteur nº 103, 28 décembre 1994",
+   "title": "Loi du 29 novembre 1994 portant création, organisation et fonctionnement de la Police nationale",
    "source": "https://web.archive.org/web/20180723210042id_/http://haitijustice.com/pdf/legislation/loi_police_nationale_haiti_haitijustice.pdf",
    "text_layer": "born-digital",
    "articles": 67
@@ -769,10 +760,10 @@
    "articles": 7
   },
   {
-   "id": "lois/2002/07-10-texte",
+   "id": "lois/2002/07-10-sur-les-cooperatives-d-epargne-et-de-credit",
    "kind": "loi",
    "date": "2002-07-10",
-   "title": "Loi sur les coopératives d’épargne et de crédit « Le Moniteur » 10 juillet 2002",
+   "title": "Loi sur les coopératives d’épargne et de crédit (Le Moniteur, 10 juillet 2002)",
    "source": "https://faolex.fao.org/docs/pdf/hai201107.pdf",
    "text_layer": "born-digital",
    "articles": 150
@@ -787,7 +778,7 @@
    "articles": 45
   },
   {
-   "id": "lois/2009/01-20-001",
+   "id": "lois/2009/01-20-loi-cadre-portant-organisation-du-secteur-de-l-eau-potable",
    "kind": "loi",
    "date": "2009-01-20",
    "title": "Loi cadre portant organisation du secteur de l'eau potable et de l'assainissement (CL 01-2009-001)",
@@ -812,6 +803,15 @@
    "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0ed/a10/6220eda10c466188048338.pdf",
    "text_layer": "born-digital",
    "articles": 26
+  },
+  {
+   "id": "lois/2014/06-04-sur-la-paternite-la-maternite-et-la-filiation",
+   "kind": "loi",
+   "date": "2014-06-04",
+   "title": "Loi sur la paternité, la maternité et la filiation (Le Moniteur no 105, 4 juin 2014)",
+   "source": "https://web.archive.org/web/20160615021251id_/http://haitijustice.com/pdf/legislation/loi-sur-la-paternite-et-la-filiation-avocat-haitien-jude-baptiste-test-adn-haiti-justice-signed.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 13
   },
   {
    "id": "lois/2016/05-04-remplacant-le-decret-du-16-fevrier-2005",
