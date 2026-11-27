@@ -4,6 +4,222 @@
  "generated_from": "runner state",
  "acts": [
   {
+   "id": "arretes/1926/04-30-sur-la-foret-nationale-de-st-rapahel",
+   "kind": "arrete",
+   "date": "1926-04-30",
+   "title": "Arrete du 30 Avril 1926 sur la Foret Nationale de St-Rapahel. Refs •Moniteur no. 36 du Jeudi 16 Mai 1926. ARRE1'E PRESIDENT nf>H0aEPUBLIQUE",
+   "source": "https://faolex.fao.org/docs/pdf/hai39452.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "arretes/1944/08-09-defendant-la-creation-ou-l-extension",
+   "kind": "arrete",
+   "date": "1944-08-09",
+   "title": "Arrêté du 9 août 1944 défendant la création ou l'extension des zones réputées marécageuses",
+   "source": "https://faolex.fao.org/docs/pdf/hai88923.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/1978/11-17-arrete-creant-au-sein-du-departement-de",
+   "kind": "arrete",
+   "date": "1978-11-17",
+   "title": "Arrêté créant au sein du Département de Travaux Publics, Transports et Communications une Section responsable du Projet du Drainage des Eaux Pluviales de la zone Métropolitaine de Port-au-Prince",
+   "source": "https://faolex.fao.org/docs/pdf/hai197052.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/1986/12-19-determinant-les-limites-et-les-aires",
+   "kind": "arrete",
+   "date": "1986-12-19",
+   "title": "Arrêté du 19 décembre 1986 déterminant les limites et les aires des divisions géographiques de chacune des sections terriennes définies aux articles 2,3 et 4 du décret du 30 juillet 1986 instituant une section speciale chargée de connaître des contestations relatives aux terres de la plaine de l'Artibonite",
+   "source": "https://faolex.fao.org/docs/pdf/hai41553.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/1992/10-08-declarant-d-utifite-publique-quelques",
+   "kind": "arrete",
+   "date": "1992-10-08",
+   "title": "Arrete du 8 Octobre 1992 declarant d'utifite publique quelques quinze (15) sources d'eau",
+   "source": "https://faolex.fao.org/docs/pdf/hai78751.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/1999/04-21-arrete-declarant-d-utilite-publique-les",
+   "kind": "arrete",
+   "date": "1999-04-21",
+   "title": "Arrêté déclarant d'utilité publique les périmètres de protection immédiats des sources d'alimentation en eau potable de la zone métropolitaine de Port-au-Prince",
+   "source": "https://faolex.fao.org/docs/pdf/hai17246.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "arretes/2000/01-12-annee-de-solidarite-avec-les-masses",
+   "kind": "arrete",
+   "date": "2000-01-12",
+   "title": "Arrêté décrétant l'année 2000, Année de solidarité avec les masses paysannes",
+   "source": "https://faolex.fao.org/docs/pdf/hai19771.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "arretes/2005/02-16-portant-reglement-general-de-la",
+   "kind": "arrete",
+   "date": "2005-02-16",
+   "title": "Arrêté du 16 février 2005 portant règlement Général de la Comptabilité Publique",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0fb/21b/6220fb21b4d1a539025986.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 100
+  },
+  {
+   "id": "arretes/2005/07-06-arrete-reconnaissant-d-utilite-publique",
+   "kind": "arrete",
+   "date": "2005-07-06",
+   "title": "Arrêté reconnaissant d'utilité publique les zones d'habitation et les propriétés constituant le site Habitation Leclerc",
+   "source": "https://faolex.fao.org/docs/pdf/hai61635.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/2005/10-12-relatif-aux-subventions-des-partis",
+   "kind": "arrete",
+   "date": "2005-10-12",
+   "title": "Arrêté du 12 Octobre 2005 relatif aux subventions des Partis Politiques",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0fa/caa/6220facaa34e9593491590.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 16
+  },
+  {
+   "id": "arretes/2009/01-30-portant-creation-du-comite",
+   "kind": "arrete",
+   "date": "2009-01-30",
+   "title": "Arrêté du 30 janvier 2009 portant création du Comité Interministériel d’Aménagement du Territoire (CIAT)",
+   "source": "https://faolex.fao.org/docs/pdf/hai171913.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "arretes/2013/04-02-definissant-la-regle-deontologique",
+   "kind": "arrete",
+   "date": "2013-04-02",
+   "title": "Arrêté du 2 Avril 2013 définissant la règle déontologique applicable aux agents de la fonction publique",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0f4/9b2/6220f49b21648853451698.pdf",
+   "text_layer": "born-digital",
+   "articles": 92
+  },
+  {
+   "id": "arretes/2013/04-02-fixant-les-procedures-et-les-modalites",
+   "kind": "arrete",
+   "date": "2013-04-02",
+   "title": "Arrêté du 2 Avril 2013 fixant les procédures et les modalités d’organisation des concours de recrutement donnant accès aux emplois de la fonction publique",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0f4/d6c/6220f4d6cc5cd583888116.pdf",
+   "text_layer": "born-digital",
+   "articles": 61
+  },
+  {
+   "id": "arretes/2014/09-05-fixant-le-systeme-d-evaluation-de-la",
+   "kind": "arrete",
+   "date": "2014-09-05",
+   "title": "Arrêté du 5 septembre 2014 fixant le système d’évaluation de la performance des agents de la fonction publique",
+   "source": "https://budget.gouv.ht/storage/app/uploads/public/5f4/444/712/5f44447120c71260178251.pdf",
+   "text_layer": "born-digital",
+   "articles": 37
+  },
+  {
+   "id": "arretes/2014/09-10-fixant-la-procedure-d-octroi-et-de",
+   "kind": "arrete",
+   "date": "2014-09-10",
+   "title": "Arrêté du 10 septembre 2014 fixant la procédure d’octroi et de Gestion des Bourses d’études au bénéfice des Fonctionnaires",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0f0/f13/6220f0f130135952116629.pdf",
+   "text_layer": "born-digital",
+   "articles": 25
+  },
+  {
+   "id": "arretes/2016/01-06-fixant-les-modalites-d-inscription-d-un",
+   "kind": "arrete",
+   "date": "2016-01-06",
+   "title": "Arrêté du 6 Janvier 2016 fixant les modalités d'inscription d'un projet dans le programme d'investissement public",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0f0/364/6220f0364ef96036622418.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 36
+  },
+  {
+   "id": "arretes/2017/03-29-arrete-creant-le-parc-national-urbain",
+   "kind": "arrete",
+   "date": "2017-03-29",
+   "title": "Arrêté créant le Parc national urbain de canapé-Vert (PNU-CAN)",
+   "source": "https://faolex.fao.org/docs/pdf/hai201651.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "arretes/2017/03-29-arrete-declarant-le-complexe-marin-et",
+   "kind": "arrete",
+   "date": "2017-03-29",
+   "title": "Arrêté déclarant le complexe marin et côtier s'étendant de Jérémie aux Abricots Aire protégée de ressources naturelles gérées de Jérémie-Abricots",
+   "source": "https://faolex.fao.org/docs/pdf/hai201626.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "arretes/2017/03-29-relatif-au-train-de-vie-de-l-etat",
+   "kind": "arrete",
+   "date": "2017-03-29",
+   "title": "Arrêté du 29 Mars 2017 relatif au train de vie de l'Etat",
+   "source": "https://budget.gouv.ht/storage/app/uploads/public/5f4/47e/bb3/5f447ebb38e1a954753205.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 61
+  },
+  {
+   "id": "arretes/2017/07-12-reservant-des-privileges-et-avantages",
+   "kind": "arrete",
+   "date": "2017-07-12",
+   "title": "Arrêté du 12 Juillet 2017 réservant des privilèges et avantages aux Chefs d'état Élus exclusivement au suffrage Universel Direct",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0ef/2bc/6220ef2bc0ab0269402886.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "arretes/2017/08-03-creant-une-autorite-regionale",
+   "kind": "arrete",
+   "date": "2017-08-03",
+   "title": "Arrêté du 3 août 2017 créant une Autorité régionale aménagement",
+   "source": "https://faolex.fao.org/docs/pdf/hai171912.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 16
+  },
+  {
+   "id": "arretes/2018/02-22-portant-reglementation-de-la-location",
+   "kind": "arrete",
+   "date": "2018-02-22",
+   "title": "Arrêté du 22 février 2018 portant règlementation de la location de Véhicules au sein de l'Administration Publique",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0ee/eb1/6220eeeb19183209718773.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "arretes/2018/10-01-fixant-le-salaire-minimum",
+   "kind": "arrete",
+   "date": "2018-10-01",
+   "title": "Arrêté du 1er Octobre 2018 fixant le salaire minimum",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0ee/a5a/6220eea5a5a37757058470.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "arretes/2020/08-30-fixant-la-date-de-cloture-anticipee-des",
+   "kind": "arrete",
+   "date": "2020-08-30",
+   "title": "Arrêté du 30 aout 2020 fixant la date de clôture anticipée des engagements de l’Exercice Fiscal 2019-2020",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/621/ffb/0a0/621ffb0a00368408154393.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
    "id": "codes/code-d-instruction-criminelle",
    "kind": "code",
    "date": "1988-07-04",
@@ -11,6 +227,15 @@
    "source": "https://web.archive.org/web/20160705111904id_/http://haitijustice.com/pdf/accesauxcodes/code_instruction_criminelle_haiti.pdf",
    "text_layer": "born-digital",
    "articles": 462
+  },
+  {
+   "id": "codes/code-des-investissements",
+   "kind": "code",
+   "date": "1989-10-30",
+   "title": "Code des Investissements",
+   "source": "https://faolex.fao.org/docs/pdf/hai201108.pdf",
+   "text_layer": "born-digital",
+   "articles": 82
   },
   {
    "id": "codes/code-penal",
@@ -22,6 +247,573 @@
    "articles": 408
   },
   {
+   "id": "decrets-lois/1937/06-23-sur-la-reglementation-des-forets",
+   "kind": "decret-loi",
+   "date": "1937-06-23",
+   "title": "Décret-loi du 23 juin 1937 sur la réglementation des forêts",
+   "source": "https://faolex.fao.org/docs/pdf/hai2940.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 15
+  },
+  {
+   "id": "decrets-lois/1944/01-14-sur-l-abattage-des-vaches-et-des",
+   "kind": "decret-loi",
+   "date": "1944-01-14",
+   "title": "Décret-loi du 14 janvier 1944 sur l'abattage des vaches et des genisses",
+   "source": "https://faolex.fao.org/docs/pdf/hai88919.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "decrets-lois/1944/09-29-coordonnant-les-activites-relatives-a",
+   "kind": "decret-loi",
+   "date": "1944-09-29",
+   "title": "Décret-loi du 29 septembre 1944 coordonnant les activités relatives à la réalisation d'un programme de reboisement, de conservation de sol, d'irrigation et de drainage de nos plaines et nos montagnes et créant le Service des Eaux et Forêts",
+   "source": "https://faolex.fao.org/docs/pdf/hai2937.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "decrets-lois/1944/10-03-organisant-le-service-des-eaux-et-forets",
+   "kind": "decret-loi",
+   "date": "1944-10-03",
+   "title": "Décret-loi du 3 octobre 1944 organisant le Service des Eaux et Forêts",
+   "source": "https://faolex.fao.org/docs/pdf/hai78760.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 0
+  },
+  {
+   "id": "decrets-lois/1945/06-27-soumetant-a-une-autorisation-prealable",
+   "kind": "decret-loi",
+   "date": "1945-06-27",
+   "title": "Décret-loi du 27 juin 1945 soumetant à une autorisation préalable l'abattage, l'écorçage et l'incisions des pins, acajous, chênes et autres espèces",
+   "source": "https://faolex.fao.org/docs/pdf/hai2936.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 15
+  },
+  {
+   "id": "decrets-lois/1959/01-27-et-le-decret-du-27-janvier-1959-le",
+   "kind": "decret-loi",
+   "date": "1959-01-27",
+   "title": "Décret-loi dr 22 décembre 1944 et le Décret du 27 janvier 1959 ; << LE MONITEUR >> No. 105 - Mercredi 4 Juin 2014",
+   "source": "https://web.archive.org/web/20160615021251id_/http://haitijustice.com/pdf/legislation/loi-sur-la-paternite-et-la-filiation-avocat-haitien-jude-baptiste-test-adn-haiti-justice-signed.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 13
+  },
+  {
+   "id": "decrets/1936/05-13-sanctionnant-la-convention",
+   "kind": "decret",
+   "date": "1936-05-13",
+   "title": "Décret du 13 Mai 1936 sanctionnant la convention internationale sur la protection des végétaux",
+   "source": "https://faolex.fao.org/docs/pdf/hai171684.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 0
+  },
+  {
+   "id": "decrets/1944/04-04-declarant-zone-reservee-toute-l-etendue",
+   "kind": "decret",
+   "date": "1944-04-04",
+   "title": "Décret du 4 avril 1944 déclarant \"zone réservée\" toute l'étendue nationale comprise dans les limites des Iles de la Gonâve et de la Tortue",
+   "source": "https://faolex.fao.org/docs/pdf/hai2938.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/1959/01-29-moniteur-21-du-30-janvier-1959-art-1-la",
+   "kind": "decret",
+   "date": "1959-01-29",
+   "title": "Decret du 29 Janvier 1959 Moniteur # 21 du 30 Janvier 1959. ART: 1 La loi du 20 Septembre 1952et l'arrete du 17 Mars 1953 sur I'irrigation et la perception",
+   "source": "https://faolex.fao.org/docs/pdf/hai88240.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 0
+  },
+  {
+   "id": "decrets/1960/11-29-mettant-la-d-a-r-n-d-r-en-mesure-de",
+   "kind": "decret",
+   "date": "1960-11-29",
+   "title": "Décret du 29 novembre 1960 mettant la D.A.R.N.D.R. en mesure de couvrir les frais d'études, de construction et d'entretien des systèmes d'irrigation",
+   "source": "https://faolex.fao.org/docs/pdf/hai78765.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "decrets/1965/02-15-accordant-a-l-etat-le-monopole-de-l",
+   "kind": "decret",
+   "date": "1965-02-15",
+   "title": "Décret du 15 février 1965 accordant à l’État le monopole de l’importation et de l’exportation des produits de pêche",
+   "source": "https://faolex.fao.org/docs/pdf/hai170634.pdf",
+   "text_layer": "born-digital",
+   "articles": 6
+  },
+  {
+   "id": "decrets/1968/03-18-denomant-parcs-nationaux-sites-naturels",
+   "kind": "decret",
+   "date": "1968-03-18",
+   "title": "Décret du 18 mars 1968 dénomant \"Parcs Nationaux\", \"Sites Naturels\" toutes étendues de terres boisées ou pas sur lesquelles sont établis des monuments historiques ou naturels",
+   "source": "https://faolex.fao.org/docs/pdf/hai2852.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 15
+  },
+  {
+   "id": "decrets/1971/03-31-organisant-la-surveillance-et-la-police",
+   "kind": "decret",
+   "date": "1971-03-31",
+   "title": "Décret du 31 mars 1971 organisant la surveillance et la police de la chasse, conformément à la convention ratifiée par la République d'Haiti, pour la protection de la nature et la préservation de la faune sauvage dans l'hémisphère occidental",
+   "source": "https://faolex.fao.org/docs/pdf/hai4279.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 28
+  },
+  {
+   "id": "decrets/1972/04-06-decret-fixant-les-limites-des-eaux",
+   "kind": "decret",
+   "date": "1972-04-06",
+   "title": "Décret fixant les limites des eaux territoriales",
+   "source": "https://faolex.fao.org/docs/pdf/hai1209.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 11
+  },
+  {
+   "id": "decrets/1972/11-20-creant-une-commission-nationale",
+   "kind": "decret",
+   "date": "1972-11-20",
+   "title": "Décret du 20 novembre 1972 créant une Commission nationale dénommée: \"Commission Nationale d'Aménagement du Territoire\" (CONAT)",
+   "source": "https://faolex.fao.org/docs/pdf/hai2850.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/1972/11-20-decret-du-20-novembre-declarant-les",
+   "kind": "decret",
+   "date": "1972-11-20",
+   "title": "Décret du 20 novembre déclarant les travaux de reboisement d'intérêt général et d'utilité publique",
+   "source": "https://faolex.fao.org/docs/pdf/hai2851.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "decrets/1977/04-08-decret-fixant-les-limites-de-la-mer",
+   "kind": "decret",
+   "date": "1977-04-08",
+   "title": "Décret fixant les limites de la mer territoriale, la zone économique exclusive et du plateau continental",
+   "source": "https://faolex.fao.org/docs/pdf/hai1210.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "decrets/1977/09-28-sur-la-conservation-fonciere-et",
+   "kind": "decret",
+   "date": "1977-09-28",
+   "title": "Décret du 28 septembre 1977 sur la conservation foncière et enregistrement",
+   "source": "https://faolex.fao.org/docs/pdf/hai41555.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 175
+  },
+  {
+   "id": "decrets/1978/10-27-texte",
+   "kind": "decret",
+   "date": "1978-10-27",
+   "title": "Décret réglementant l'exercice du droit de pêche en Haiti, 1978",
+   "source": "https://faolex.fao.org/docs/pdf/hai1211.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 120
+  },
+  {
+   "id": "decrets/1981/10-22-decret-creant-un-organisme-autonome-de",
+   "kind": "decret",
+   "date": "1981-10-22",
+   "title": "Décret créant un organisme autonome de droit public, à caractère industriel et commercial dénommé \"Société Nationale des Parcs Industriels\" (SONAPI)",
+   "source": "https://faolex.fao.org/docs/pdf/hai88232.pdf",
+   "text_layer": "born-digital",
+   "articles": 14
+  },
+  {
+   "id": "decrets/1983/10-18-portant-organisation-du-ministere-des",
+   "kind": "decret",
+   "date": "1983-10-18",
+   "title": "Décret du 18 octobre 1983 portant organisation du Ministère des Travaux Publics, Transports et Communications",
+   "source": "https://faolex.fao.org/docs/pdf/hai175691.pdf",
+   "text_layer": "born-digital",
+   "articles": 44
+  },
+  {
+   "id": "decrets/1985/11-29-decret-integrant-au-ministere-de-l",
+   "kind": "decret",
+   "date": "1985-11-29",
+   "title": "Décret intégrant au Ministère de l'agriculture, des ressources naturelles et du développement rural deux organismes autonomes: L'organisme de développement du bassin du fleuve Artibonite et l'organisme du développement du Nord-ouest",
+   "source": "https://faolex.fao.org/docs/pdf/hai7439.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "decrets/1986/06-26-modifiant-les-dispositions-des-lois-i",
+   "kind": "decret",
+   "date": "1986-06-26",
+   "title": "Décret du 26 juin 1986 modifiant les dispositions des lois I et II du nouveau Code rural",
+   "source": "https://faolex.fao.org/docs/pdf/hai41538.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 19
+  },
+  {
+   "id": "decrets/1986/07-30-instituant-une-section-speciale-chargee",
+   "kind": "decret",
+   "date": "1986-07-30",
+   "title": "Décret du 30 juillet 1986 instituant une section speciale chargée de connaître des contestations relatives aux terres de la plaine de l'Artibonite",
+   "source": "https://faolex.fao.org/docs/pdf/hai41552.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 27
+  },
+  {
+   "id": "decrets/1987/05-05-relatif-au-code-douanier-sommaire",
+   "kind": "decret",
+   "date": "1987-05-05",
+   "title": "DÉCRET DU 5 MAI 1987 RELATIF AU CODE DOUANIER SOMMAIRE Préambule Chapitre I. Dispositions préliminaires [Articles 1, 2]",
+   "source": "https://web.archive.org/web/20160705070657id_/http://haitijustice.com/pdf/accesauxcodes/code_douanier_haiti.pdf",
+   "text_layer": "born-digital",
+   "articles": 468
+  },
+  {
+   "id": "decrets/1987/07-07-reglementant-l-utilisation-du-bois",
+   "kind": "decret",
+   "date": "1987-07-07",
+   "title": "Decret du 7 Juillet 1987 reglementant l'utilisation du bois energie DECRET LE CONS Ell NATIONAL DE GOUVERNEMENT",
+   "source": "https://faolex.fao.org/docs/pdf/hai88877.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 11
+  },
+  {
+   "id": "decrets/1987/11-30-decret-portant-organisation-et",
+   "kind": "decret",
+   "date": "1987-11-30",
+   "title": "Décret portant organisation et fonctionnement du Ministère de l’Agriculture des Ressources Naturelles et du Développement Rural désigné sous le sigle MARNDR",
+   "source": "https://faolex.fao.org/docs/pdf/hai88204.pdf",
+   "text_layer": "born-digital",
+   "articles": 107
+  },
+  {
+   "id": "decrets/1989/05-10-creant-un-organisme-autonome-de",
+   "kind": "decret",
+   "date": "1989-05-10",
+   "title": "Décret du 10 mai 1989 créant un organisme autonome de consultation doté de la personnalité morale denommé: Commission nationale du patrimoine",
+   "source": "https://faolex.fao.org/docs/pdf/hai41554.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 51
+  },
+  {
+   "id": "decrets/1995/08-22-relatif-a-l-organisation-judiciaire",
+   "kind": "decret",
+   "date": "1995-08-22",
+   "title": "Décret du 22 août 1995 relatif à l’organisation judiciaire république d’haïti ministère de la justice décret du 22 août 1995 relatif à l’organisation judiciaire",
+   "source": "https://web.archive.org/web/20160704233824id_/http://haitijustice.com/pdf/legislation/D%C3%A9cret-relatif-a-l-organisation-judiciaire-haiti-jude-baptiste-avocat.pdf",
+   "text_layer": "born-digital",
+   "articles": 167
+  },
+  {
+   "id": "decrets/2004/10-20-decret-creant-un-organisme-autonome",
+   "kind": "decret",
+   "date": "2004-10-20",
+   "title": "Décret créant un organisme autonome denommé Autorité Nationale de Sûreté Radiologique (ANSR)",
+   "source": "https://faolex.fao.org/docs/pdf/hai53309.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 19
+  },
+  {
+   "id": "decrets/2005/05-17-portant-organisation-de-l",
+   "kind": "decret",
+   "date": "2005-05-17",
+   "title": "Décret du 17 Mai 2005 Portant Organisation de l'administration Centrale de l'état",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/115/79b/62211579bc814535571340.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 172
+  },
+  {
+   "id": "decrets/2005/05-17-portant-revision-du-statut-general-de",
+   "kind": "decret",
+   "date": "2005-05-17",
+   "title": "Décret du 17 Mai 2005 Portant Révision du Statut Général de La Fonction Publique",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/114/4fe/6221144fe8182128667875.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 192
+  },
+  {
+   "id": "decrets/2005/09-29-relatif-a-l-impot-sur-le-revenu",
+   "kind": "decret",
+   "date": "2005-09-29",
+   "title": "Décret du 29 Septembre 2005 Relatif à l'impôt sur le revenu",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/115/104/622115104dc18361072714.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 122
+  },
+  {
+   "id": "decrets/2005/10-12-creant-le-centre-national-de-l",
+   "kind": "decret",
+   "date": "2005-10-12",
+   "title": "Décret du 12 octobre 2005 créant le Centre National de l'Information Géo-spatiale (CNIGS)",
+   "source": "https://faolex.fao.org/docs/pdf/hai175694.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 30
+  },
+  {
+   "id": "decrets/2005/10-12-decret-portant-sur-la-gestion-de-l",
+   "kind": "decret",
+   "date": "2005-10-12",
+   "title": "Décret portant sur la gestion de l'environnement et de régulation de la conduite des citoyens et citoyennes pour un développement durable",
+   "source": "https://faolex.fao.org/docs/pdf/hai65901.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 157
+  },
+  {
+   "id": "decrets/2005/11-23-etablissant-l-organisation-et-le",
+   "kind": "decret",
+   "date": "2005-11-23",
+   "title": "Décret du 23 Novembre 2005 Établissant l'organisation et le Fonctionnement de la Cour Supérieure des Comptes et du Contentieux Administratif désigné sous",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0fd/243/6220fd2436470601165280.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 64
+  },
+  {
+   "id": "decrets/2005/12-22-decret-portant-organisation-du",
+   "kind": "decret",
+   "date": "2005-12-22",
+   "title": "Décret portant organisation du Ministère de la Condition Féminine et des Droits des Femmes",
+   "source": "https://faolex.fao.org/docs/pdf/hai134595.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 26
+  },
+  {
+   "id": "decrets/2006/02-01-definissant-le-cadre-general-de-la",
+   "kind": "decret",
+   "date": "2006-02-01",
+   "title": "Décret de janvier 2006 définissant le cadre général de la décentralisation, les principes de fonctionnement et d’organisation des Collectivités territoriales haïtiennes",
+   "source": "https://faolex.fao.org/docs/pdf/hai202004.pdf",
+   "text_layer": "born-digital",
+   "articles": 164
+  },
+  {
+   "id": "decrets/2020/08-15-decret-organisant-le-ministere-de-l",
+   "kind": "decret",
+   "date": "2020-08-15",
+   "title": "Décret organisant le Ministère de l'environnement",
+   "source": "https://faolex.fao.org/docs/pdf/hai210954.pdf",
+   "text_layer": "born-digital",
+   "articles": 91
+  },
+  {
+   "id": "decrets/2025/08-08-instaurant-l-etat-d-urgence-sur-les",
+   "kind": "decret",
+   "date": "2025-08-08",
+   "title": "Décret du 08 août 2025 instaurant l’état d'urgence sur les départements de l’Ouest de l’Artibonite et du Centre pour trois (3) mois",
+   "source": "https://faolex.fao.org/docs/pdf/hai239582.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "lois/1926/02-03-sur-les-forets-nationales-reservees",
+   "kind": "loi",
+   "date": "1926-02-03",
+   "title": "Loi du 3 février 1926 sur les Forêts Nationales Réservées",
+   "source": "https://faolex.fao.org/docs/pdf/hai2943.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "lois/1936/05-08-constituant-la-zone-reservee-cerisier",
+   "kind": "loi",
+   "date": "1936-05-08",
+   "title": "Loi du 8 Mai 1936 constituant la zone reservee Cerisier, Plaisance t.roni teur No.44 du Jeudi 21 Mai l936 LOI STENIO VINCENT",
+   "source": "https://faolex.fao.org/docs/pdf/hai39445.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "lois/1936/05-28-loi-edictant-des-mesures-pour-arreter",
+   "kind": "loi",
+   "date": "1936-05-28",
+   "title": "Loi édictant des mesures pour arrêter la déforestation",
+   "source": "https://faolex.fao.org/docs/pdf/hai39448.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "lois/1936/06-04-donnant-des-garanties-speciales-a-ceux",
+   "kind": "loi",
+   "date": "1936-06-04",
+   "title": "Loi du 4 juin 1936 donnant des garanties spéciales à ceux qui se livrent à la culture méthodique du sol",
+   "source": "https://faolex.fao.org/docs/pdf/hai39447.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "lois/1940/04-23-sur-le-patrimoine-historique-artistique",
+   "kind": "loi",
+   "date": "1940-04-23",
+   "title": "Loi du 23 avril 1940 sur le patrimoine historique, artistique, naturel et archéologique",
+   "source": "https://faolex.fao.org/docs/pdf/hai88921.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 31
+  },
+  {
+   "id": "lois/1944/03-01-interdisant-l-exportation-des-buches-et",
+   "kind": "loi",
+   "date": "1944-03-01",
+   "title": "Loi du 1er mars 1944 interdisant l'exportation des bûches et planches d'acajous et de tous autres bois précieux non manifacturés",
+   "source": "https://faolex.fao.org/docs/pdf/hai39440.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "lois/1952/09-29-fixant-le-statut-des-usagers-des",
+   "kind": "loi",
+   "date": "1952-09-29",
+   "title": "Loi du 29 Septembre 1952 fixant le statut des usagers des systcmee d'irrigation ct do drainage otabUs o~ control6s par l'Etat. LOI",
+   "source": "https://faolex.fao.org/docs/pdf/hai78759.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "lois/1955/08-19-85",
+   "kind": "loi",
+   "date": "1955-08-19",
+   "title": "Loi 1955/85",
+   "source": "https://faolex.fao.org/docs/pdf/hai224028.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 48
+  },
+  {
+   "id": "lois/1958/09-19-protegeant-le-sol-contre-l-erosion",
+   "kind": "loi",
+   "date": "1958-09-19",
+   "title": "Loi du 19 septembre 1958 protégeant le sol contre l'érosion, déterminant l'étendue des zones et réglementant l'exploitation forestière en Haiti",
+   "source": "https://faolex.fao.org/docs/pdf/hai2855.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "lois/1963/08-27-loi-decretant-zone-sous-protection-le",
+   "kind": "loi",
+   "date": "1963-08-27",
+   "title": "Loi décrétant \"Zone sous protection\" le bassin hydrographique Morne l'Hôpital",
+   "source": "https://faolex.fao.org/docs/pdf/hai39437.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "lois/1966/07-05-declarant-l-annee-1966-annee-d",
+   "kind": "loi",
+   "date": "1966-07-05",
+   "title": "Loi du 5 juillet 1966 déclarant l'année 1966 année d'ouverture de la campagne quinquennale de reboisement sur toute l'étendue du territoire",
+   "source": "https://faolex.fao.org/docs/pdf/hai39435.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "lois/1971/05-26-reglementant-l-organisme-du",
+   "kind": "loi",
+   "date": "1971-05-26",
+   "title": "Loi du 26 mai 1971 réglementant l’Organisme du Développement de la Vallée de l’Artibonite (ODVA)",
+   "source": "https://faolex.fao.org/docs/pdf/hai175692.pdf",
+   "text_layer": "born-digital",
+   "articles": 9
+  },
+  {
+   "id": "lois/1974/06-12-eaux-souterraines",
+   "kind": "loi",
+   "date": "1974-06-12",
+   "title": "Loi du 12 juin 1974 - Eaux souterraines",
+   "source": "https://faolex.fao.org/docs/pdf/hai39428.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 11
+  },
+  {
+   "id": "lois/1974/07-18-loi-instituant-et-reglementant-sur-le",
+   "kind": "loi",
+   "date": "1974-07-18",
+   "title": "Loi instituant et réglementant sur le territoire de la République d'Haïti des zones clôturées dénommées parcs industriels",
+   "source": "https://faolex.fao.org/docs/pdf/hai88226.pdf",
+   "text_layer": "born-digital",
+   "articles": 29
+  },
+  {
+   "id": "lois/1975/07-31-faisant-injonction-a-tout-proprietaire",
+   "kind": "loi",
+   "date": "1975-07-31",
+   "title": "Loi du 31 juillet 1975 faisant injonction à tout propriétaire foncier à mettre en valeur toute étendue de terre cultivable",
+   "source": "https://faolex.fao.org/docs/pdf/hai78743.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "lois/1984/08-13-organisant-le-regime-de-la-copropriete",
+   "kind": "loi",
+   "date": "1984-08-13",
+   "title": "Loi du 13 août 1984 organisant le régime de la copropriété",
+   "source": "https://faolex.fao.org/docs/pdf/hai41551.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 37
+  },
+  {
+   "id": "lois/1994/11-29-portant-creation-organisation-et",
+   "kind": "loi",
+   "date": "1994-11-29",
+   "title": "Loi du 29 novembre 1994 portant création, organisation et fonctionnement de la police nationale le moniteur nº 103, 28 décembre 1994",
+   "source": "https://web.archive.org/web/20180723210042id_/http://haitijustice.com/pdf/legislation/loi_police_nationale_haiti_haitijustice.pdf",
+   "text_layer": "born-digital",
+   "articles": 67
+  },
+  {
+   "id": "lois/1996/06-18-creant-un-fonds-de-gestion-et-de",
+   "kind": "loi",
+   "date": "1996-06-18",
+   "title": "Loi du18 juin 1996 créant un fonds de Gestion et de Développement des Collécvités Territoriales",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/119/50b/62211950b22b6036258513.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "lois/2002/07-10-texte",
+   "kind": "loi",
+   "date": "2002-07-10",
+   "title": "Loi sur les coopératives d’épargne et de crédit « Le Moniteur » 10 juillet 2002",
+   "source": "https://faolex.fao.org/docs/pdf/hai201107.pdf",
+   "text_layer": "born-digital",
+   "articles": 150
+  },
+  {
+   "id": "lois/2002/12-18-loi-portant-creation-d-un-organisme-a",
+   "kind": "loi",
+   "date": "2002-12-18",
+   "title": "Loi portant création d'un organisme à caractère financier dénommé: \"Fonds d'Entretien Routier\" ayant pour sigle \"FER\"",
+   "source": "https://faolex.fao.org/docs/pdf/hai88222.pdf",
+   "text_layer": "born-digital",
+   "articles": 45
+  },
+  {
+   "id": "lois/2009/01-20-001",
+   "kind": "loi",
+   "date": "2009-01-20",
+   "title": "Loi cadre portant organisation du secteur de l'eau potable et de l'assainissement (CL 01-2009-001)",
+   "source": "https://faolex.fao.org/docs/pdf/hai88906.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 18
+  },
+  {
+   "id": "lois/2009/06-12-fixant-les-regles-generales-de",
+   "kind": "loi",
+   "date": "2009-06-12",
+   "title": "Loi du 12 Juin 2009 Fixant les règles générales de passation d’exécution et de règlement des Marchés publics",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0ee/0ab/6220ee0ab9202931486005.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 97
+  },
+  {
+   "id": "lois/2014/03-12-portant-prevention-et-repression-de-la",
+   "kind": "loi",
+   "date": "2014-03-12",
+   "title": "Loi du 12 Mars 2014 Portant Prévention et Répression de la Corruption",
+   "source": "https://www.mef.gouv.ht/storage/app/uploads/public/622/0ed/a10/6220eda10c466188048338.pdf",
+   "text_layer": "born-digital",
+   "articles": 26
+  },
+  {
    "id": "lois/2016/05-04-remplacant-le-decret-du-16-fevrier-2005",
    "kind": "loi",
    "date": "2016-05-04",
@@ -29,6 +821,24 @@
    "source": "https://www.mef.gouv.ht/storage/app/uploads/public/621/ff9/ea9/621ff9ea99351107048036.pdf",
    "text_layer": "publisher-ocr",
    "articles": 115
+  },
+  {
+   "id": "lois/2017/02-02-loi-portant-sur-la-fortification-des",
+   "kind": "loi",
+   "date": "2017-02-02",
+   "title": "Loi portant sur la fortification des aliments en micronutriments",
+   "source": "https://faolex.fao.org/docs/pdf/hai233496.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 18
+  },
+  {
+   "id": "lois/2017/08-09-loi-portant-creation-organisation-et",
+   "kind": "loi",
+   "date": "2017-08-09",
+   "title": "Loi portant création, organisation et fonctionnement du service national de gestion des résidus solides (SNGRS)",
+   "source": "https://faolex.fao.org/docs/pdf/hai172031.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 28
   }
  ]
 }
