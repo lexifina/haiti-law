@@ -11,7 +11,7 @@ The law of Haiti as a git history: one file per article, one commit per version 
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Haiti's national law, which global-law reads at `haiti/national/acts/`.
 
-**What is in it now:** the Constitution of 29 March 1987, as ratified and as amended in 2011 (text published 19 June 2012); 4 codes in `codes/` (Penal Code, Code of Criminal Procedure, Labour Code, …); and laws, decrees and orders from 1926 to 2025 (26 laws, 6 decree-laws, 34 decrees, 24 orders (arrêtés)), one folder per text, one file per article. See [STRUCTURE.md](STRUCTURE.md) and `corpus.json`.
+**What is in it now:** the Constitution of 29 March 1987, as ratified and as amended in 2011 (text published 19 June 2012); 4 codes in `codes/` (Penal Code, Code of Criminal Procedure, Labour Code, …); and laws, decrees and orders from 1926 to 2025 (27 laws, 5 decree-laws, 34 decrees, 24 orders (arrêtés)), one folder per text, one file per article. See [STRUCTURE.md](STRUCTURE.md) and `corpus.json`.
 
 Each act has its own folder, with one file per article (`codes/code-du-travail/art-001.md` is Article 1 of the Code du travail; the Constitution's Article 1.1 is `constitution/art-001-01.md` and its preamble `constitution/preambule.md`); the pension decree is one file, `decrets/2015/10-09-pension-civile/texte-integral.md`. Each folder's `README.md` lists its articles.
 
