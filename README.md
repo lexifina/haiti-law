@@ -11,7 +11,7 @@ Le droit d’Haïti sous la forme d’un historique git : un fichier par article
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national d’Haïti, que global-law lit sous `haiti/national/acts/`.
 
-**Contenu actuel :** la Constitution du 29 mars 1987, telle que ratifiée et telle qu’amendée en 2011 (texte publié le 19 juin 2012) ; 4 codes dans `codes/` (Code pénal, Code d’instruction criminelle, Code du travail, …) ; et des lois, décrets et arrêtés de 1926 à 2025 (27 lois, 5 décrets-lois, 34 décrets, 24 arrêtés), un dossier par texte, un fichier par article. Voir [STRUCTURE.md](STRUCTURE.md) et `corpus.json`.
+**Contenu actuel :** la Constitution du 29 mars 1987, telle que ratifiée et telle qu’amendée en 2011 (texte publié le 19 juin 2012) ; 5 codes dans `codes/` (Code pénal, Code d’instruction criminelle, Code du travail, …) ; et des lois, décrets et arrêtés de 1926 à 2025 (27 lois, 5 décrets-lois, 33 décrets, 24 arrêtés), un dossier par texte, un fichier par article. Voir [STRUCTURE.md](STRUCTURE.md) et `corpus.json`.
 
 Chaque acte a son propre dossier, avec un fichier par article (`codes/code-du-travail/art-001.md` est l’article 1er du Code du travail ; l’article 1.1 de la Constitution est `constitution/art-001-01.md` et son préambule `constitution/preambule.md`) ; le décret sur les pensions tient en un seul fichier, `decrets/2015/10-09-pension-civile/texte-integral.md`. Le `README.md` de chaque dossier liste ses articles.
 
